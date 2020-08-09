@@ -769,298 +769,309 @@ Str T02-V001-9.75-0.05,5126.16,credits,Medical,Al-Farooqi Gift Shop,Yards of Gad
 """Last Longer"" Chew bar, tier 3",1042.07,credits,Food,Al-Farooqi Gift Shop,Yards of Gadani,3947.2,Alpha Centauri,last-longer-chew-bar-tier-3
 """Staying Power"" Seltzer, tier 2",452.62,credits,Food,Al-Farooqi Gift Shop,Yards of Gadani,3947.2,Alpha Centauri,staying-power-seltzer-tier-2
 """Staying Power"" Seltzer, tier 3",936.81,credits,Food,Al-Farooqi Gift Shop,Yards of Gadani,3947.2,Alpha Centauri,staying-power-seltzer-tier-3
-Civ T03-V003-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33003
-Civ T03-V003-9.19x2-0.1,3501.89,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-003
-Civ T03-V003-9.82x2-0.075,3529.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-003
-Civ T03-V005-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33005
-Civ T03-V005-9.19x2-0.1,3501.89,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-005
-Civ T03-V006-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-006
-Civ T03-V006-9.82x2-0.075,3529.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-006
-Civ T03-V012-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-012
-Civ T03-V017-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-017
-Civ T03-V017-9.19x2-0.1,3501.89,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-017
-Civ T03-V022-6.11x3-0.1,3501.89,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-022
-Civ T03-V024-10.50x2-0.05,4553.15,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-024
-Civ T03-V025-7.01x3-0.05,4560.11,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-025
-Civ T03-V026-6.56x3-0.075,3529.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-026
-Mil T03-V030-4.59x4-0.03,13,bonds,Medical,Clean & Sterile Sundry,Estación de Amazon,2610.8,Barnard's Star,minor-military-stim-v31030
-Civ T03-V003-10.50x2-0.05,4553.15,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33003
-Civ T03-V003-9.19x2-0.1,3501.89,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-003
-Civ T03-V003-9.82x2-0.075,3529.73,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-003
-Civ T03-V005-10.50x2-0.05,4553.15,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33005
-Civ T03-V005-9.19x2-0.1,3501.89,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-005
-Civ T03-V010-9.82x2-0.075,3529.73,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-010
-Civ T03-V011-7.01x3-0.05,4560.11,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-011
-Civ T03-V014-6.11x3-0.1,3501.89,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-014
-Civ T03-V019-6.11x3-0.1,3501.89,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-019
-Civ T03-V022-7.01x3-0.05,4560.11,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-022
-Civ T03-V025-6.11x3-0.1,3501.89,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-025
-Civ T03-V028-6.56x3-0.075,3529.73,credits,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-028
-Mil T03-V029-4.59x4-0.03,13,bonds,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,minor-military-stim-v31029
-Mil T03-V030-7.54x4-0.03,43,bonds,Medical,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,strong-military-stim-v43030
-"""Quick feet"" Soda, tier 3",619.62,credits,Food,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,quick-feet-soda-tier-3
-"""Quick feet"" Soda, tier 4",967.72,credits,Food,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,quick-feet-soda-tier-4
-"""Smooth Talker"" Snack, tier 3",689.24,credits,Food,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,smooth-talker-snack-tier-3
-"""Smooth Talker"" Snack, tier 4",1051.26,credits,Food,Amazonian Fine Wares,Estación de Amazon,2610.8,Barnard's Star,smooth-talker-snack-tier-4
-Aurorahunter,1806,bonds,Armor,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,aurorahunter
-Civ T03-V003-10.50x2-0.05,4553.15,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33003
-Civ T03-V003-9.19x2-0.1,3501.89,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-003
-Civ T03-V003-9.82x2-0.075,3529.73,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,standard-multi-stim-v3-2-003
-Civ T03-V005-10.50x2-0.05,4553.15,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v33005
-Civ T03-V005-9.19x2-0.1,3501.89,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,minor-multi-stim-v3-1-005
-Civ T03-V007-7.01x3-0.05,4560.11,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-007
-Civ T03-V026-7.01x3-0.05,4560.11,credits,Medical,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,strong-multi-stim-v3-3-026
-"""Last Longer"" Chew bar, tier 3",689.24,credits,Food,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,last-longer-chew-bar-tier-3
-"""Last Longer"" Chew bar, tier 4",1051.26,credits,Food,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,last-longer-chew-bar-tier-4
-"""Staying Power"" Seltzer, tier 3",619.62,credits,Food,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,staying-power-seltzer-tier-3
-"""Staying Power"" Seltzer, tier 4",967.72,credits,Food,Irene's Sunny Shop,Estación de Amazon,2610.8,Barnard's Star,staying-power-seltzer-tier-4
-Aged Kodachi,12704.92,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,aged-kodachi
-Obsidian Shot,7991.80,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,obsidian-shot
-Smuggler’s Knuckles,7718.58,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,smugglers-knuckles
-Spark Knuckles,12691.25,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,spark-knuckles
-Tungsten Clava,12786.88,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,tungsten-clava
-Anti-Energy Scale Mail,18572.40,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,12827.87,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,7780.05,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,8920.76,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,8743.17,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,arc-defier-trenchcoat
-Aurorahunter,1806,bonds,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,aurorahunter
-Heavy Diffusion Armor,8148.91,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,heavy-diffusion-armor
-Spidersilk Flak Jacket,12267.76,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,spidersilk-flak-jacket
-Civ T03-V006-10.50x2-0.05,4467.21,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-006
-Civ T03-V012-9.19x2-0.1,3435.79,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,minor-multi-stim-v3-1-012
-Civ T03-V018-9.19x2-0.1,3435.79,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,minor-multi-stim-v3-1-018
-Civ T03-V020-9.82x2-0.075,3463.11,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,standard-multi-stim-v3-2-020
-Civ T03-V026-6.11x3-0.1,3435.79,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,minor-multi-stim-v3-1-026
-"""Last Longer"" Chew bar, tier 3",676.23,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,last-longer-chew-bar-tier-3
-"""Last Longer"" Chew bar, tier 4",1031.42,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,last-longer-chew-bar-tier-4
-"""Staying Power"" Seltzer, tier 3",607.92,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,staying-power-seltzer-tier-3
-"""Staying Power"" Seltzer, tier 4",949.45,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,2561.5,Barnard's Star,staying-power-seltzer-tier-4
-Heat Knuckles,7793.71,credits,Weapon,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,heat-knuckles
-Iridium Mace,12875.68,credits,Weapon,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,iridium-mace
-Anti-Energy Scale Mail,18572.40,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,12827.87,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,7780.05,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,8920.76,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,8743.17,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,arc-defier-trenchcoat
-Heavy Riot Gear,18524.59,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,heavy-riot-gear
-Light Repulsion Armor,18490.43,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,light-repulsion-armor
-Mail Backed Lamellar Armor,12185.79,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,mail-backed-lamellar-armor
-Medium Kinetic Vest,8189.89,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,medium-kinetic-vest
-Civ T03-V007-7.01x3-0.05,4474.04,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-007
-Civ T03-V011-7.01x3-0.05,4474.04,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-011
-Civ T03-V018-10.50x2-0.05,4467.21,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-018
-Civ T03-V025-6.56x3-0.075,3463.11,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,standard-multi-stim-v3-2-025
-Civ T03-V025-7.01x3-0.05,4474.04,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-025
-Mil T03-V023-4.92x4-0.03,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,standard-military-stim-v32023
-Mil T03-V030-4.92x4-0.03,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,standard-military-stim-v32030
-Mil T03-V031-3.93x5-0.035,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,standard-military-stim-v32031
-"""Brain Booster"" Bites, tier 3",676.23,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,brain-booster-bites-tier-3
-"""Brain Booster"" Bites, tier 4",1031.42,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,brain-booster-bites-tier-4
-"""Chatterbox"" Shake, tier 3",607.92,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,chatterbox-shake-tier-3
-"""Chatterbox"" Shake, tier 4",949.45,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,2561.5,Barnard's Star,chatterbox-shake-tier-4
-Illuminated Spade,8203.55,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,illuminated-spade
-Little Timmy,7718.58,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,little-timmy
-Osmium Club,12984.97,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,osmium-club
-Anti-Energy Scale Mail,18572.40,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,12827.87,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,7780.05,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,8920.76,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,8743.17,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,arc-defier-trenchcoat
-Aurorahunter,1806,bonds,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,aurorahunter
-Elite Diffusion Suit,12418.03,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,elite-diffusion-suit
-Elite P3 Energy Suit,18797.81,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,elite-p3-energy-suit
-Patelloida Plated Jacket,8859.29,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,patelloida-plated-jacket
-Sinclair Diffusion Battlegear,8927.59,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,sinclair-diffusion-battlegear
-Civ T03-V009-10.50x2-0.05,4467.21,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-009
-Civ T03-V010-9.19x2-0.1,3435.79,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,minor-multi-stim-v3-1-010
-Civ T03-V011-6.56x3-0.075,3463.11,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,standard-multi-stim-v3-2-011
-Civ T03-V013-7.01x3-0.05,4474.04,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-013
-Civ T03-V014-6.11x3-0.1,3435.79,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,minor-multi-stim-v3-1-014
-Civ T03-V022-7.01x3-0.05,4474.04,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,2561.5,Barnard's Star,strong-multi-stim-v3-3-022
-Aged Kodachi,13340.16,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,aged-kodachi
-Aged Navigator’s Tsurugi,1377.05,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,aged-navigators-tsurugi
-Alpha Prime,8082.99,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,alpha-prime
-Antique Tantō,680,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,antique-tanto
-Cadet's Epee,5443.65,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,scabbard
-Clockwork Cactus,1815,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,clockwork-cactus
-Consortium Jian,4955.94,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,consortium-jian
-Eclipse Wakizashi,8133.20,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,eclipse-wakizashi
-Epee,5214.14,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,epee
-Fawnskipper,1825,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,fawnskipper
-GX65 Blaster Rifle: Firefox Edition,17270.49,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,gx65-blaster-rifle-firefox-edition
-GX65 Rifle: Chrome Edition,17464.14,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,gx65-rifle-chrome-edition
-GX65 Rifle: Edge Edition,13282.78,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,gx65-rifle-edge-edition
-Graphite Demise,16754.10,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,graphite-demise
-Han-Dachi,8262.29,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,han-dachi
-Heat Scimitar,12651.64,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,heat-scimitar
-Jade Tactical Shotgun,21509.22,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,jade-tactical-shotgun
-Jade Tactical Shotgun: Mark II,21552.25,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,jade-tactical-shotgun-mark-ii
-Kyarr Moon,730,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,kyarr-moon
-Kyarr Sun,4769.47,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,kyarr-sun
-One Life Kaiken,4611.68,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,one-life-kaiken
-Paris Sabre,8104.51,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,paris-sabre
-Protectorate Dao,5501.02,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,protectorate-dao
-Respectable Wakizashi,1770,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,respectable-wakizashi
-Ruby Redemption,17550.20,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,ruby-redemption
-Security Katana,5357.58,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,security-katana
-Ship Captain’s Cutlass,1412.91,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,ship-captains-cutlass
-Simple Student’s Katana,753.07,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,simple-students-katana
-Staff of Minos,2510.25,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,staff-of-minos
-Sword of Many Truths,8384.22,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,sword-of-many-truths
-The Tiger’s Claws,2128,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,the-tigers-claws
-Worn Down Bokken,745.90,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,worn-down-bokken
-Xiana,2128,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,xiana
-Anti-Energy Kataginu,8118.85,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,anti-energy-kataginu
-Anubis Armor,13469.26,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,anubis-armor
-Black Raven Armor,5049.18,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,black-raven-armor
-Chitinous Cuirass,8111.68,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,chitinous-cuirass
-Composite Dō,4812.50,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,composite-do
-Dō-maru,12687.50,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,do-maru
-Forest Walker Armor,13053.28,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,forest-walker-armor
-Heavy Dō-maru,12852.46,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,heavy-d-maru
-Infiltrator X300 Limited Edition Series,2372,bonds,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,infiltrator-x300-limited-edition-series
-Kikko Katabira,13110.65,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,kikko-katabira
-Light Tatami Gusoku,4661.88,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,light-tatami-gusoku
-Mirrored Kikko Armor,9495.90,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,mirrored-kikko-armor
-Reinforced Hitatare,4453.89,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,reinforced-hitatare
-Shrike Armor,9517.42,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,shrike-armor
-Terracotta Armor,735,bonds,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,terracotta-armor
-The Black Hole,21982.58,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,the-black-hole
-Yōkai Cloak,13540.98,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,2561.5,Barnard's Star,yokai-cloak
-Corvo,9713.11,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,corvo
-Osmium Club,15581.96,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,osmium-club
-Silenced Song of Dotsent,9622.94,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,silenced-song-of-dotsent
-Tungsten Clava,15344.26,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,tungsten-clava
-Anti-Energy Scale Mail,22286.88,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,15393.44,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,9336.06,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,10704.91,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,10491.80,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,arc-defier-trenchcoat
-Elite P3 Piercing Suit,22196.71,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,elite-p3-piercing-suit
-Scrolled Leather Suit,14500.00,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,scrolled-leather-suit
-Civ T03-V009-9.82x2-0.075,4155.73,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-009
-Civ T03-V012-9.19x2-0.1,4122.95,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-012
-Civ T03-V012-9.82x2-0.075,4155.73,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-012
-Civ T03-V013-7.01x3-0.05,5368.85,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,strong-multi-stim-v3-3-013
-Civ T03-V017-9.82x2-0.075,4155.73,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-017
-Civ T03-V019-7.01x3-0.05,5368.85,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,strong-multi-stim-v3-3-019
-Civ T03-V020-9.19x2-0.1,4122.95,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-020
-Civ T03-V021-6.56x3-0.075,4155.73,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-021
-Civ T03-V026-6.11x3-0.1,4122.95,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-026
-Civ T03-V028-6.11x3-0.1,4122.95,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-028
-Mil T03-V030-6.24x4-0.03,27,bonds,Medical,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,minor-military-stim-v41030
-Tier 1 Ration,2459.02,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,ration-1
-Tier 2 Ration,4918.03,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,ration-2
-Tier 3 Ration,7377.05,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,ration-3
-Tier 4 Ration,9836.06,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,ration-4
-Tier 5 Ration,12295.08,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,ration-5
-Termination Pellet,8196.72,credits,Event,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,termination-pellet
-"""Deep Thinker"" Cordial, tier 3",729.50,credits,Food,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,deep-thinker-cordial-tier-3
-"""Deep Thinker"" Cordial, tier 4",1139.34,credits,Food,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,deep-thinker-cordial-tier-4
-"""Nimble Mover"" Candy, tier 3",811.48,credits,Food,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,nimble-mover-candy-tier-3
-"""Nimble Mover"" Candy, tier 4",1237.70,credits,Food,Ace's Ace Vendibles,Caen Stronghold,2561.5,Barnard's Star,nimble-mover-candy-tier-4
-Angry Mouse,14647.54,credits,Weapon,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,angry-mouse
-G-B21E,9393.44,credits,Weapon,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,g-b21e
-Ice Breaker’s Club,9663.94,credits,Weapon,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ice-breakers-club
-Osmium Mallet,9663.94,credits,Weapon,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,osmium-mallet
-SAG Stun Baton,15393.44,credits,Weapon,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,sag-stun-baton
-Anti-Energy Scale Mail,22286.88,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,15393.44,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,9336.06,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,10704.91,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,10491.80,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,arc-defier-trenchcoat
-Coat of Ten Thousand Nails,22532.78,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,coat-of-ten-thousand-nails
-Fire Fu of firefu,63319.66,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,fire-fu-of-firefu
-Forest Walker Armor,14918.03,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,forest-walker-armor
-Yōkai Cloak,15475.40,credits,Armor,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,yokai-cloak
-Civ T03-V005-9.82x2-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-005
-Civ T03-V007-6.11x3-0.1,4122.95,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-007
-Civ T03-V009-9.19x2-0.1,4122.95,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-009
-Civ T03-V011-6.56x3-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-011
-Civ T03-V014-6.56x3-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-014
-Civ T03-V014-7.01x3-0.05,5368.85,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,strong-multi-stim-v3-3-014
-Civ T03-V018-10.50x2-0.05,5360.65,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,strong-multi-stim-v3-3-018
-Civ T03-V019-6.11x3-0.1,4122.95,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-019
-Civ T03-V019-6.56x3-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-019
-Civ T03-V021-6.11x3-0.1,4122.95,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-021
-Civ T03-V021-7.01x3-0.05,5368.85,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,strong-multi-stim-v3-3-021
-Civ T03-V022-6.56x3-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-022
-Civ T03-V024-9.19x2-0.1,4122.95,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-multi-stim-v3-1-024
-Civ T03-V028-6.56x3-0.075,4155.73,credits,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,standard-multi-stim-v3-2-028
-Mil T03-V023-4.59x4-0.03,13,bonds,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-military-stim-v31023
-Mil T03-V031-3.68x5-0.035,13,bonds,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,minor-military-stim-v31031
-Mil T03-V031-6.04x5-0.035,43,bonds,Medical,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,strong-military-stim-v43031
-Tier 1 Ration,2459.02,credits,Ration,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ration-1
-Tier 2 Ration,4918.03,credits,Ration,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ration-2
-Tier 3 Ration,7377.05,credits,Ration,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ration-3
-Tier 4 Ration,9836.06,credits,Ration,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ration-4
-Tier 5 Ration,12295.08,credits,Ration,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,ration-5
-"""Muscle Pump"" Paste, tier 3",811.48,credits,Food,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,muscle-pump-paste-tier-3
-"""Muscle Pump"" Paste, tier 4",1237.70,credits,Food,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,muscle-pump-paste-tier-4
-"""Tireless"" Tonic, tier 3",729.50,credits,Food,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,tireless-tonic-tier-3
-"""Tireless"" Tonic, tier 4",1139.34,credits,Food,Smoghead Requisitions,Caen Stronghold,2561.5,Barnard's Star,tireless-tonic-tier-4
-Alpha Prime,3923.09,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,alpha-prime
-Spark Knuckles,6467.70,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,spark-knuckles
-The Silent One,6460.74,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,handgun-reclaim
-Anti-Energy Scale Mail,9464.84,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,6537.32,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,3964.86,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,4546.19,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,4455.68,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,arc-defier-trenchcoat
-Glass Armor,9541.42,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,glass-armor
-Heavy Dō-maru,6237.95,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,heavy-d-maru
-Civ T03-V005-9.82x2-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-005
-Civ T03-V009-10.50x2-0.05,2276.57,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-009
-Civ T03-V010-9.82x2-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-010
-Civ T03-V017-10.50x2-0.05,2276.57,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-017
-Civ T03-V018-9.82x2-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-018
-Civ T03-V020-9.82x2-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-020
-Civ T03-V021-6.56x3-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-021
-Civ T03-V022-6.11x3-0.1,1750.94,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,minor-multi-stim-v3-1-022
-Civ T03-V024-9.82x2-0.075,1764.87,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-024
-Civ T03-V025-6.11x3-0.1,1750.94,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,minor-multi-stim-v3-1-025
-Civ T03-V026-7.01x3-0.05,2280.06,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-026
-Mil T03-V015-4.59x4-0.03,13,bonds,Medical,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,minor-military-stim-v31015
-"""Muscle Pump"" Paste, tier 3",344.62,credits,Food,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,muscle-pump-paste-tier-3
-"""Muscle Pump"" Paste, tier 4",525.63,credits,Food,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,muscle-pump-paste-tier-4
-"""Tireless"" Tonic, tier 3",309.81,credits,Food,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,tireless-tonic-tier-3
-"""Tireless"" Tonic, tier 4",483.86,credits,Food,WELL-MAID WARES,The Maid of Orléans,1305.4,Barnard's Star,tireless-tonic-tier-4
-Corvo,4124.98,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,corvo
-Diamond Walking Stick,6596.49,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,diamond-walking-stick
-Eclipse Wakizashi,3947.45,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,eclipse-wakizashi
-G-SAG1E,6610.42,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,g-sag1e
-G-TS68,4024.04,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,g-ts68
-Illuminated Spade,4180.68,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,illuminated-spade
-Unusual Pole,4037.96,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,unusual-pole
-Anti-Energy Scale Mail,9464.84,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,anti-energy-scale-mail
-Anubis Armor,6537.32,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,anubis-armor
-Arc Dancer's Jump Suit,3964.86,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,arc-dancers-jump-suit
-Arc Dancer's Suit,4546.19,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,arc-dancers-suit
-Arc Defier Trenchcoat,4455.68,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,arc-defier-trenchcoat
-Elite Anti-Energy Combat Suit,9468.32,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,elite-anti-energy-combat-suit
-Elite Storm Armor,6269.28,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,elite-storm-armor
-Enstek Body Case,6171.81,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,enstek-body-case
-Gladiator Gear,6199.66,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,gladiator-gear
-Kikko Katabira,6363.27,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,kikko-katabira
-Medium Exo-Suit,4417.39,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,medium-exo-suit
-Mirrored Kikko Armor,4608.84,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,mirrored-kikko-armor
-Mohan Jacket,1806,bonds,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,mohan-jacket
-Shrike Armor,4619.29,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,shrike-armor
-Spidersilk Suit Jacket,4173.72,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,spidersilk-suit-jacket
-Civ T03-V006-9.82x2-0.075,1764.87,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-006
-Civ T03-V007-6.56x3-0.075,1764.87,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-007
-Civ T03-V011-6.11x3-0.1,1750.94,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,minor-multi-stim-v3-1-011
-Civ T03-V013-6.56x3-0.075,1764.87,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,standard-multi-stim-v3-2-013
-Civ T03-V019-7.01x3-0.05,2280.06,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-019
-Civ T03-V021-7.01x3-0.05,2280.06,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-021
-Civ T03-V024-9.19x2-0.1,1750.94,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,minor-multi-stim-v3-1-024
-Civ T03-V028-7.01x3-0.05,2280.06,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,strong-multi-stim-v3-3-028
-Mil T03-V027-4.59x4-0.03,13,bonds,Medical,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,minor-military-stim-v31027
-"""Deep Thinker"" Cordial, tier 3",309.81,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,deep-thinker-cordial-tier-3
-"""Deep Thinker"" Cordial, tier 4",483.86,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,deep-thinker-cordial-tier-4
-"""Nimble Mover"" Candy, tier 3",344.62,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,nimble-mover-candy-tier-3
-"""Nimble Mover"" Candy, tier 4",525.63,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1305.4,Barnard's Star,nimble-mover-candy-tier-4
+VIP Pack - 3 days,290,bonds,VIP,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,vip-3
+Civ T03-V003-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33003
+Civ T03-V003-9.19x2-0.1,2062.55,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-003
+Civ T03-V003-9.82x2-0.075,2078.95,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-003
+Civ T03-V005-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33005
+Civ T03-V005-9.19x2-0.1,2062.55,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-005
+Civ T03-V006-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-006
+Civ T03-V006-9.82x2-0.075,2078.95,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-006
+Civ T03-V012-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-012
+Civ T03-V017-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-017
+Civ T03-V017-9.19x2-0.1,2062.55,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-017
+Civ T03-V022-6.11x3-0.1,2062.55,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-022
+Civ T03-V024-10.50x2-0.05,2681.73,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-024
+Civ T03-V025-7.01x3-0.05,2685.83,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-025
+Civ T03-V026-6.56x3-0.075,2078.95,credits,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-026
+Mil T03-V030-4.59x4-0.03,13,bonds,Medical,Clean & Sterile Sundry,Estación de Amazon,1537.7,Barnard's Star,minor-military-stim-v31030
+VIP Pack - 3 days,290,bonds,VIP,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,vip-3
+Civ T03-V003-10.50x2-0.05,2681.73,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33003
+Civ T03-V003-9.19x2-0.1,2062.55,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-003
+Civ T03-V003-9.82x2-0.075,2078.95,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-003
+Civ T03-V005-10.50x2-0.05,2681.73,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33005
+Civ T03-V005-9.19x2-0.1,2062.55,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-005
+Civ T03-V010-9.82x2-0.075,2078.95,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-010
+Civ T03-V011-7.01x3-0.05,2685.83,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-011
+Civ T03-V014-6.11x3-0.1,2062.55,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-014
+Civ T03-V019-6.11x3-0.1,2062.55,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-019
+Civ T03-V022-7.01x3-0.05,2685.83,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-022
+Civ T03-V025-6.11x3-0.1,2062.55,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-025
+Civ T03-V028-6.56x3-0.075,2078.95,credits,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-028
+Mil T03-V029-4.59x4-0.03,13,bonds,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,minor-military-stim-v31029
+Mil T03-V030-7.54x4-0.03,43,bonds,Medical,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,strong-military-stim-v43030
+"""Quick feet"" Soda, tier 3",364.94,credits,Food,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,quick-feet-soda-tier-3
+"""Quick feet"" Soda, tier 4",569.97,credits,Food,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,quick-feet-soda-tier-4
+"""Smooth Talker"" Snack, tier 3",405.95,credits,Food,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,smooth-talker-snack-tier-3
+"""Smooth Talker"" Snack, tier 4",619.18,credits,Food,Amazonian Fine Wares,Estación de Amazon,1537.7,Barnard's Star,smooth-talker-snack-tier-4
+Aurorahunter,1785,bonds,Armor,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,aurorahunter
+VIP Pack - 3 days,290,bonds,VIP,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,vip-3
+Civ T03-V003-10.50x2-0.05,2681.73,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33003
+Civ T03-V003-9.19x2-0.1,2062.55,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-003
+Civ T03-V003-9.82x2-0.075,2078.95,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,standard-multi-stim-v3-2-003
+Civ T03-V005-10.50x2-0.05,2681.73,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v33005
+Civ T03-V005-9.19x2-0.1,2062.55,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,minor-multi-stim-v3-1-005
+Civ T03-V007-7.01x3-0.05,2685.83,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-007
+Civ T03-V026-7.01x3-0.05,2685.83,credits,Medical,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,strong-multi-stim-v3-3-026
+"""Last Longer"" Chew bar, tier 3",405.95,credits,Food,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,last-longer-chew-bar-tier-3
+"""Last Longer"" Chew bar, tier 4",619.18,credits,Food,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,last-longer-chew-bar-tier-4
+"""Staying Power"" Seltzer, tier 3",364.94,credits,Food,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,staying-power-seltzer-tier-3
+"""Staying Power"" Seltzer, tier 4",569.97,credits,Food,Irene's Sunny Shop,Estación de Amazon,1537.7,Barnard's Star,staying-power-seltzer-tier-4
+Aged Kodachi,21832.17,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,aged-kodachi
+Obsidian Shot,13733.14,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,obsidian-shot
+Smuggler’s Knuckles,13263.63,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,smugglers-knuckles
+Spark Knuckles,21808.69,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,spark-knuckles
+Tungsten Clava,21973.02,credits,Weapon,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,tungsten-clava
+Anti-Energy Scale Mail,31914.88,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,22043.45,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,13369.27,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,15329.47,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,15024.29,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,arc-defier-trenchcoat
+Aurorahunter,1785,bonds,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,aurorahunter
+Heavy Diffusion Armor,14003.11,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,heavy-diffusion-armor
+Spidersilk Flak Jacket,21080.96,credits,Armor,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,spidersilk-flak-jacket
+VIP Pack - 3 days,290,bonds,VIP,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,vip-3
+Civ T03-V006-10.50x2-0.05,7676.47,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-006
+Civ T03-V012-9.19x2-0.1,5904.08,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,minor-multi-stim-v3-1-012
+Civ T03-V018-9.19x2-0.1,5904.08,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,minor-multi-stim-v3-1-018
+Civ T03-V020-9.82x2-0.075,5951.03,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,standard-multi-stim-v3-2-020
+Civ T03-V026-6.11x3-0.1,5904.08,credits,Medical,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,minor-multi-stim-v3-1-026
+"""Last Longer"" Chew bar, tier 3",1162.03,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,last-longer-chew-bar-tier-3
+"""Last Longer"" Chew bar, tier 4",1772.40,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,last-longer-chew-bar-tier-4
+"""Staying Power"" Seltzer, tier 3",1044.66,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,staying-power-seltzer-tier-3
+"""Staying Power"" Seltzer, tier 4",1631.54,credits,Food,Lionheart Goods & Salvage,Hopkins' Legacy,4401.6,Barnard's Star,staying-power-seltzer-tier-4
+Heat Knuckles,13392.75,credits,Weapon,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,heat-knuckles
+Iridium Mace,22125.61,credits,Weapon,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,iridium-mace
+Anti-Energy Scale Mail,31914.88,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,22043.45,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,13369.27,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,15329.47,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,15024.29,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,arc-defier-trenchcoat
+Heavy Riot Gear,31832.71,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,heavy-riot-gear
+Light Repulsion Armor,31774.02,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,light-repulsion-armor
+Mail Backed Lamellar Armor,20940.10,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,mail-backed-lamellar-armor
+Medium Kinetic Vest,14073.53,credits,Armor,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,medium-kinetic-vest
+VIP Pack - 3 days,290,bonds,VIP,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,vip-3
+Civ T03-V007-7.01x3-0.05,7688.21,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-007
+Civ T03-V011-7.01x3-0.05,7688.21,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-011
+Civ T03-V018-10.50x2-0.05,7676.47,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-018
+Civ T03-V025-6.56x3-0.075,5951.03,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,standard-multi-stim-v3-2-025
+Civ T03-V025-7.01x3-0.05,7688.21,credits,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-025
+Mil T03-V023-4.92x4-0.03,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,standard-military-stim-v32023
+Mil T03-V030-4.92x4-0.03,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,standard-military-stim-v32030
+Mil T03-V031-3.93x5-0.035,14,bonds,Medical,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,standard-military-stim-v32031
+"""Brain Booster"" Bites, tier 3",1162.03,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,brain-booster-bites-tier-3
+"""Brain Booster"" Bites, tier 4",1772.40,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,brain-booster-bites-tier-4
+"""Chatterbox"" Shake, tier 3",1044.66,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,chatterbox-shake-tier-3
+"""Chatterbox"" Shake, tier 4",1631.54,credits,Food,Simone's Bots and Bits,Hopkins' Legacy,4401.6,Barnard's Star,chatterbox-shake-tier-4
+Illuminated Spade,14097.01,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,illuminated-spade
+Little Timmy,13263.63,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,little-timmy
+Osmium Club,22313.42,credits,Weapon,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,osmium-club
+Anti-Energy Scale Mail,31914.88,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,22043.45,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,13369.27,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,15329.47,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,15024.29,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,arc-defier-trenchcoat
+Aurorahunter,1785,bonds,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,aurorahunter
+Elite Diffusion Suit,21339.19,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,elite-diffusion-suit
+Elite P3 Energy Suit,32302.22,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,elite-p3-energy-suit
+Patelloida Plated Jacket,15223.83,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,patelloida-plated-jacket
+Sinclair Diffusion Battlegear,15341.21,credits,Armor,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,sinclair-diffusion-battlegear
+VIP Pack - 3 days,290,bonds,VIP,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,vip-3
+Civ T03-V009-10.50x2-0.05,7676.47,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-009
+Civ T03-V010-9.19x2-0.1,5904.08,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,minor-multi-stim-v3-1-010
+Civ T03-V011-6.56x3-0.075,5951.03,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,standard-multi-stim-v3-2-011
+Civ T03-V013-7.01x3-0.05,7688.21,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-013
+Civ T03-V014-6.11x3-0.1,5904.08,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,minor-multi-stim-v3-1-014
+Civ T03-V022-7.01x3-0.05,7688.21,credits,Medical,Tanegashima Commodities,Hopkins' Legacy,4401.6,Barnard's Star,strong-multi-stim-v3-3-022
+Aged Kodachi,22923.78,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,aged-kodachi
+Aged Navigator’s Tsurugi,2366.33,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,aged-navigators-tsurugi
+Alpha Prime,13889.84,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,alpha-prime
+Antique Tantō,718,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,antique-tanto
+Cadet's Epee,9354.38,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,scabbard
+Clockwork Cactus,1793,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,clockwork-cactus
+Consortium Jian,8516.31,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,consortium-jian
+Eclipse Wakizashi,13976.11,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,eclipse-wakizashi
+Epee,8959.99,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,epee
+Fawnskipper,1804,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,fawnskipper
+GX65 Blaster Rifle: Firefox Edition,30207.62,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,gx65-blaster-rifle-firefox-edition
+GX65 Rifle: Chrome Edition,30207.62,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,gx65-rifle-chrome-edition
+GX65 Rifle: Edge Edition,23256.54,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,gx65-rifle-edge-edition
+Graphite Demise,29270.95,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,graphite-demise
+Han-Dachi,14197.95,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,han-dachi
+Heat Scimitar,21740.62,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,heat-scimitar
+Jade Tactical Shotgun,37664.02,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,jade-tactical-shotgun
+Jade Tactical Shotgun: Mark II,37269.63,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,jade-tactical-shotgun-mark-ii
+Kyarr Moon,725,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,kyarr-moon
+Kyarr Sun,8195.87,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,kyarr-sun
+One Life Kaiken,7924.73,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,one-life-kaiken
+Paris Sabre,13926.81,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,paris-sabre
+Protectorate Dao,9452.98,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,protectorate-dao
+Respectable Wakizashi,1294,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,respectable-wakizashi
+Ruby Redemption,42643.16,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,ruby-redemption
+Security Katana,9206.49,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,security-katana
+Ship Captain’s Cutlass,2427.95,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,ship-captains-cutlass
+Simple Student’s Katana,1294.08,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,simple-students-katana
+Staff of Minos,4313.61,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,staff-of-minos
+Sword of Many Truths,14407.47,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,sword-of-many-truths
+The Tiger’s Claws,2189,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,the-tigers-claws
+Worn Down Bokken,1281.76,credits,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,worn-down-bokken
+Xiana,2188,bonds,Weapon,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,xiana
+Anti-Energy Kataginu,13951.46,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,anti-energy-kataginu
+Anubis Armor,23145.62,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,anubis-armor
+Black Raven Armor,8676.53,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,black-raven-armor
+Chitinous Cuirass,13939.14,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,chitinous-cuirass
+Composite Dō,8269.81,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,composite-do
+Dō-maru,21802.24,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,do-maru
+Forest Walker Armor,22430.79,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,forest-walker-armor
+Heavy Dō-maru,22085.71,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,heavy-d-maru
+Infiltrator X300 Limited Edition Series,2180,bonds,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,infiltrator-x300-limited-edition-series
+Kikko Katabira,22529.39,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,kikko-katabira
+Light Tatami Gusoku,8011.00,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,light-tatami-gusoku
+Mirrored Kikko Armor,16317.79,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,mirrored-kikko-armor
+Reinforced Hitatare,7653.58,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,reinforced-hitatare
+Shrike Armor,16354.76,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,shrike-armor
+Terracotta Armor,728,bonds,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,terracotta-armor
+The Black Hole,37762.61,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,the-black-hole
+Yōkai Cloak,23268.87,credits,Armor,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,yokai-cloak
+VIP Pack - 3 days,290,bonds,VIP,Yasutsuna Corp Ordnance,Hopkins' Legacy,4401.6,Barnard's Star,vip-3
+Corvo,5836.03,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,corvo
+Osmium Club,9362.27,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,osmium-club
+Silenced Song of Dotsent,5781.85,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,silenced-song-of-dotsent
+Tungsten Clava,9219.46,credits,Weapon,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,tungsten-clava
+Anti-Energy Scale Mail,13390.86,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,9249.00,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,5609.48,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,6431.94,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,6303.90,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,arc-defier-trenchcoat
+Elite P3 Piercing Suit,13336.68,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,elite-p3-piercing-suit
+Scrolled Leather Suit,8712.18,credits,Armor,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,scrolled-leather-suit
+VIP Pack - 3 days,290,bonds,VIP,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,vip-3
+Civ T03-V009-9.82x2-0.075,2496.94,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-009
+Civ T03-V012-9.19x2-0.1,2477.23,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-012
+Civ T03-V012-9.82x2-0.075,2496.94,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-012
+Civ T03-V013-7.01x3-0.05,3225.83,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,strong-multi-stim-v3-3-013
+Civ T03-V017-9.82x2-0.075,2496.94,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-017
+Civ T03-V019-7.01x3-0.05,3225.83,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,strong-multi-stim-v3-3-019
+Civ T03-V020-9.19x2-0.1,2477.23,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-020
+Civ T03-V021-6.56x3-0.075,2496.94,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-021
+Civ T03-V026-6.11x3-0.1,2477.23,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-026
+Civ T03-V028-6.11x3-0.1,2477.23,credits,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-028
+Mil T03-V030-6.24x4-0.03,27,bonds,Medical,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,minor-military-stim-v41030
+Tier 1 Ration,1477.48,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,ration-1
+Tier 2 Ration,2954.95,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,ration-2
+Tier 3 Ration,4432.43,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,ration-3
+Tier 4 Ration,5909.90,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,ration-4
+Tier 5 Ration,7387.38,credits,Ration,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,ration-5
+Termination Pellet,4924.92,credits,Event,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,termination-pellet
+"""Deep Thinker"" Cordial, tier 3",438.31,credits,Food,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,deep-thinker-cordial-tier-3
+"""Deep Thinker"" Cordial, tier 4",684.56,credits,Food,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,deep-thinker-cordial-tier-4
+"""Nimble Mover"" Candy, tier 3",487.57,credits,Food,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,nimble-mover-candy-tier-3
+"""Nimble Mover"" Candy, tier 4",743.66,credits,Food,Ace's Ace Vendibles,Caen Stronghold,1539.0,Barnard's Star,nimble-mover-candy-tier-4
+Angry Mouse,8800.84,credits,Weapon,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,angry-mouse
+G-B21E,5643.96,credits,Weapon,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,g-b21e
+Ice Breaker’s Club,5806.48,credits,Weapon,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ice-breakers-club
+Osmium Mallet,5806.48,credits,Weapon,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,osmium-mallet
+SAG Stun Baton,9249.00,credits,Weapon,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,sag-stun-baton
+Anti-Energy Scale Mail,13390.86,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,9249.00,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,5609.48,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,6431.94,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,6303.90,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,arc-defier-trenchcoat
+Coat of Ten Thousand Nails,13538.60,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,coat-of-ten-thousand-nails
+Fire Fu of firefu,38045.00,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,fire-fu-of-firefu
+Forest Walker Armor,8963.35,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,forest-walker-armor
+Yōkai Cloak,9298.25,credits,Armor,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,yokai-cloak
+VIP Pack - 3 days,290,bonds,VIP,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,vip-3
+Civ T03-V005-9.82x2-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-005
+Civ T03-V007-6.11x3-0.1,2477.23,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-007
+Civ T03-V009-9.19x2-0.1,2477.23,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-009
+Civ T03-V011-6.56x3-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-011
+Civ T03-V014-6.56x3-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-014
+Civ T03-V014-7.01x3-0.05,3225.83,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,strong-multi-stim-v3-3-014
+Civ T03-V018-10.50x2-0.05,3220.90,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,strong-multi-stim-v3-3-018
+Civ T03-V019-6.11x3-0.1,2477.23,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-019
+Civ T03-V019-6.56x3-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-019
+Civ T03-V021-6.11x3-0.1,2477.23,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-021
+Civ T03-V021-7.01x3-0.05,3225.83,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,strong-multi-stim-v3-3-021
+Civ T03-V022-6.56x3-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-022
+Civ T03-V024-9.19x2-0.1,2477.23,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-multi-stim-v3-1-024
+Civ T03-V028-6.56x3-0.075,2496.94,credits,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,standard-multi-stim-v3-2-028
+Mil T03-V023-4.59x4-0.03,13,bonds,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-military-stim-v31023
+Mil T03-V031-3.68x5-0.035,13,bonds,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,minor-military-stim-v31031
+Mil T03-V031-6.04x5-0.035,43,bonds,Medical,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,strong-military-stim-v43031
+Tier 1 Ration,1477.48,credits,Ration,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ration-1
+Tier 2 Ration,2954.95,credits,Ration,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ration-2
+Tier 3 Ration,4432.43,credits,Ration,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ration-3
+Tier 4 Ration,5909.90,credits,Ration,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ration-4
+Tier 5 Ration,7387.38,credits,Ration,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,ration-5
+"""Muscle Pump"" Paste, tier 3",487.57,credits,Food,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,muscle-pump-paste-tier-3
+"""Muscle Pump"" Paste, tier 4",743.66,credits,Food,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,muscle-pump-paste-tier-4
+"""Tireless"" Tonic, tier 3",438.31,credits,Food,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,tireless-tonic-tier-3
+"""Tireless"" Tonic, tier 4",684.56,credits,Food,Smoghead Requisitions,Caen Stronghold,1539.0,Barnard's Star,tireless-tonic-tier-4
+Alpha Prime,4621.26,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,alpha-prime
+Spark Knuckles,7618.73,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,spark-knuckles
+The Silent One,7610.53,credits,Weapon,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,handgun-reclaim
+Anti-Energy Scale Mail,11149.26,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,7700.74,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,4670.47,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,5355.25,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,5248.64,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,arc-defier-trenchcoat
+Glass Armor,11239.47,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,glass-armor
+Heavy Dō-maru,7348.10,credits,Armor,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,heavy-d-maru
+VIP Pack - 3 days,290,bonds,VIP,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,vip-3
+Civ T03-V005-9.82x2-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-005
+Civ T03-V009-10.50x2-0.05,2681.73,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-009
+Civ T03-V010-9.82x2-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-010
+Civ T03-V017-10.50x2-0.05,2681.73,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-017
+Civ T03-V018-9.82x2-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-018
+Civ T03-V020-9.82x2-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-020
+Civ T03-V021-6.56x3-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-021
+Civ T03-V022-6.11x3-0.1,2062.55,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,minor-multi-stim-v3-1-022
+Civ T03-V024-9.82x2-0.075,2078.95,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-024
+Civ T03-V025-6.11x3-0.1,2062.55,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,minor-multi-stim-v3-1-025
+Civ T03-V026-7.01x3-0.05,2685.83,credits,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-026
+Mil T03-V015-4.59x4-0.03,13,bonds,Medical,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,minor-military-stim-v31015
+"""Muscle Pump"" Paste, tier 3",405.95,credits,Food,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,muscle-pump-paste-tier-3
+"""Muscle Pump"" Paste, tier 4",619.18,credits,Food,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,muscle-pump-paste-tier-4
+"""Tireless"" Tonic, tier 3",364.94,credits,Food,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,tireless-tonic-tier-3
+"""Tireless"" Tonic, tier 4",569.97,credits,Food,WELL-MAID WARES,The Maid of Orléans,1537.7,Barnard's Star,tireless-tonic-tier-4
+Corvo,4859.09,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,corvo
+Diamond Walking Stick,7770.45,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,diamond-walking-stick
+Eclipse Wakizashi,4649.97,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,eclipse-wakizashi
+G-SAG1E,7786.85,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,g-sag1e
+G-TS68,4740.18,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,g-ts68
+Illuminated Spade,4924.70,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,illuminated-spade
+Unusual Pole,4756.58,credits,Weapon,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,unusual-pole
+Anti-Energy Scale Mail,11149.26,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,anti-energy-scale-mail
+Anubis Armor,7700.74,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,anubis-armor
+Arc Dancer's Jump Suit,4670.47,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,arc-dancers-jump-suit
+Arc Dancer's Suit,5355.25,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,arc-dancers-suit
+Arc Defier Trenchcoat,5248.64,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,arc-defier-trenchcoat
+Elite Anti-Energy Combat Suit,11153.36,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,elite-anti-energy-combat-suit
+Elite Storm Armor,7385.00,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,elite-storm-armor
+Enstek Body Case,7270.19,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,enstek-body-case
+Gladiator Gear,7302.99,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,gladiator-gear
+Kikko Katabira,7495.71,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,kikko-katabira
+Medium Exo-Suit,5203.53,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,medium-exo-suit
+Mirrored Kikko Armor,5429.06,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,mirrored-kikko-armor
+Mohan Jacket,1784,bonds,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,mohan-jacket
+Shrike Armor,5441.36,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,shrike-armor
+Spidersilk Suit Jacket,4916.50,credits,Armor,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,spidersilk-suit-jacket
+VIP Pack - 3 days,290,bonds,VIP,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,vip-3
+Civ T03-V006-9.82x2-0.075,2078.95,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-006
+Civ T03-V007-6.56x3-0.075,2078.95,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-007
+Civ T03-V011-6.11x3-0.1,2062.55,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,minor-multi-stim-v3-1-011
+Civ T03-V013-6.56x3-0.075,2078.95,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,standard-multi-stim-v3-2-013
+Civ T03-V019-7.01x3-0.05,2685.83,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-019
+Civ T03-V021-7.01x3-0.05,2685.83,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-021
+Civ T03-V024-9.19x2-0.1,2062.55,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,minor-multi-stim-v3-1-024
+Civ T03-V028-7.01x3-0.05,2685.83,credits,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,strong-multi-stim-v3-3-028
+Mil T03-V027-4.59x4-0.03,13,bonds,Medical,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,minor-military-stim-v31027
+"""Deep Thinker"" Cordial, tier 3",364.94,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,deep-thinker-cordial-tier-3
+"""Deep Thinker"" Cordial, tier 4",569.97,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,deep-thinker-cordial-tier-4
+"""Nimble Mover"" Candy, tier 3",405.95,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,nimble-mover-candy-tier-3
+"""Nimble Mover"" Candy, tier 4",619.18,credits,Food,L’Auberge Gift Shop,The Maid of Orléans,1537.7,Barnard's Star,nimble-mover-candy-tier-4
 VIP Pack - 3 days,290,bonds,VIP,Muscle Man Merch,Spirit of Tianjin,2542.4,L726-8,vip-3
 Civ T03-V003-10.50x2-0.05,4433.99,credits,Medical,Muscle Man Merch,Spirit of Tianjin,2542.4,L726-8,strong-multi-stim-v33003
 Civ T03-V003-9.19x2-0.1,3410.24,credits,Medical,Muscle Man Merch,Spirit of Tianjin,2542.4,L726-8,minor-multi-stim-v3-1-003
