@@ -33,7 +33,7 @@ def get_minmax(slug):
 
 
 def is_close(a,b):
-    tolerance = 0.02
+    tolerance = 0.001
     return abs(a/b - 1.0) < tolerance
 
 
