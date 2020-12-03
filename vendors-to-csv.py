@@ -22,7 +22,7 @@ def slurp_vendor(vfile, system):
     body = phtml.body
     # extract station
     title = head.find('title')
-    match = re.match(r'Vendors/(.+) — τ', title.text)
+    match = re.match(r' *Vendors/(.+) — τ', title.text)
     station = match.group(1) if match else None
     # extract vendor
     tag = body.find('h2', attrs={'class':"vendor-details-heading"})
