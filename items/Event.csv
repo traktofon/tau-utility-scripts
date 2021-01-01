@@ -1,0 +1,8 @@
+name,tier,rarity,type,weight,slug,desc
+Two Bond Certificate,1,common,Event,0 kg,bonds-2,"A certificate for 2 bonds, payable upon receipt."
+Thirty Bond Certificate,1,common,Event,0 kg,bonds-30,"A certificate for 30 bonds, payable upon receipt."
+Termination Pellet,1,common,Event,0.01 kg,termination-pellet,"This small, clear capsule is filled with a green fluid that writhes when exposed to light."
+Five Bond Certificate,1,common,Event,0 kg,bonds-5,"A certificate for 5 bonds, payable upon receipt."
+Forty Bond Certificate,1,common,Event,0 kg,bonds-40,"A certificate for 40 bonds, payable upon receipt."
+Ten Bond Certificate,1,common,Event,0 kg,bonds-10,"A certificate for 10 bonds, payable upon receipt."
+Twenty Bond Certificate,1,common,Event,0 kg,bonds-20,"A certificate for 20 bonds, payable upon receipt."

@@ -1,0 +1,4 @@
+name,tier,rarity,type,weight,slug,desc
+Branch Office Blueprint,1,common,Blueprint,0.50 kg,branch-office-blueprint,This blueprint allows the construction of branch offices for syndicates.
+Secure Storage Blueprint,1,common,Blueprint,0.50 kg,secure-storage-blueprint,This blueprint allows the construction of a secure storage for syndicates.
+Sickbay Blueprint,1,common,Blueprint,0.50 kg,sickbay-blueprint,This blueprint allows the construction of a sickbay for syndicates.

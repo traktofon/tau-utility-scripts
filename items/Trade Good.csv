@@ -1,0 +1,12 @@
+name,tier,rarity,type,weight,slug,desc
+Nanowire,1,common,Trade Good,0.80 kg,nanowire,A superconductive wire with less resistance than more common materials.
+Construction Matrix,1,common,Trade Good,0.10 kg,construction-matrix,"When powered by a suitable blueprint, construction matrices can take almost any raw materials and grow it into a suitable section of a building. They have a built-in ""Hayflick Limit"" to prevent them from growing uncontrollably."
+Voit-Kamp Relay,1,common,Trade Good,0.03 kg,voit-kamp-relay,"A key robotics component, the relays take binary neural-net output and translate them to analog signals used by carbon nanotube muscle groups."
+Scrap metal,1,common,Trade Good,3.00 kg,scrap-metal,A small piece of bent metal
+Beer Bottles,1,common,Trade Good,1.00 kg,beer-bottles,"Good old fashioned beer, probably brewed in sanitary conditions."
+Capacitor,1,common,Trade Good,0.01 kg,capacitor,A small tube of metal filled with wires. It's used to store electricity.
+Hardback Novel,1,common,Trade Good,1.00 kg,hardback-novel,"A rare antique. Collectors will pay well for these, even in poor shape."
+Copper Wiring,1,common,Trade Good,1.00 kg,copper-wiring,A thin electrical wire made of copper.
+Musty book,1,common,Trade Good,0.25 kg,musty-book,Books are rare items and usually in very poor condition. Nonetheless they are very valuable due to any historic information which may be gleaned from them.
+Jewel-Encrusted egg,1,common,Trade Good,0.50 kg,jewel-encrusted-egg,"A decorative egg. Covered in jewels, it would be the envy of many a collector."
+Circuit Board,1,common,Trade Good,0.10 kg,circuit-board,"The name ""circuit board"" is an anachronism from Old Earth. Modern ""circuit boards"" are quasi-organic, self-repairing general computation devices. They automatically configure themselves upon demand, drawing data from a mesh uplink."

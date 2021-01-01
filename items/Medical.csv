@@ -1,0 +1,357 @@
+name,tier,rarity,type,strength-boost,agility-boost,stamina-boost,intelligence-boost,social-boost,base-toxicity,weight,slug,desc
+Agi T02-V002-9.00-0.075,2,common,Medical,0,9,0,0,0,7%,0.03 kg,standard-agility-stim-v12002,A basic agility stim.
+Agi T02-V002-15.00-0.05,2,uncommon,Medical,0,15,0,0,0,5%,0.03 kg,strong-agility-stim-v3-3-002,A basic agility stim.
+Mil T01-V031-3.10-2.90x3-2.70-0.035,1,epic,Medical,3.1,2.9,2.9,2.7,2.9,3%,0.03 kg,minor-military-stim-v21031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T04-V017-15.08x2-0.05,4,rare,Medical,15.08,0,0,15.08,0,5%,0.03 kg,strong-multi-stim-v4-3-017,A civilian stim affecting strength and intelligence.
+Civ T04-V009-15.08x2-0.05,4,rare,Medical,15.08,0,0,0,15.08,5%,0.03 kg,strong-multi-stim-v4-3-009,A civilian stim affecting strength and social.
+Civ T04-V007-8.32x3-0.1,4,common,Medical,8.32,8.32,8.32,0,0,10%,0.03 kg,minor-multi-stim-v41007,"A civilian stim affecting strength, agility, and stamina."
+Civ T05-V020-20.33x2-0.075,5,rare,Medical,0,0,20.33,20.33,0,7%,0.03 kg,standard-multi-stim-v5-2-020,A civilian stim affecting stamina and intelligence.
+Civ T02-V025-4.80x3-0.1,2,uncommon,Medical,4.8,0,0,4.8,4.8,10%,0.03 kg,minor-multi-stim-v21025,"A civilian stim affecting strength, social, and intelligence."
+Civ T04-V017-13.76x2-0.075,4,uncommon,Medical,13.76,0,0,13.76,0,7%,0.03 kg,standard-multi-stim-v4-2-017,A civilian stim affecting strength and intelligence.
+Civ T03-V010-9.82x2-0.075,3,rare,Medical,0,9.82,0,0,9.82,7%,0.03 kg,standard-multi-stim-v3-2-010,A civilian stim affecting agility and social.
+Mil T03-V027-7.54x4-0.03,3,epic,Medical,7.54,7.54,0,7.54,7.54,3%,0.03 kg,strong-military-stim-v43027,"A military stim affecting strength, agility, social, and intelligence."
+Agi T02-V002-10.31-0.1,2,common,Medical,0,10.31,0,0,0,10%,0.03 kg,minor-agility-stim-v21002,A basic agility stim.
+Mil T03-V031-3.93x5-0.035,3,common,Medical,3.93,3.93,3.93,3.93,3.93,3%,0.03 kg,standard-military-stim-v32031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T05-V005-19.01x2-0.1,5,uncommon,Medical,19.01,0,19.01,0,0,10%,0.03 kg,minor-multi-stim-v5-1-005,A civilian stim affecting strength and stamina.
+Civ T03-V009-9.19x2-0.1,3,rare,Medical,9.19,0,0,0,9.19,10%,0.03 kg,minor-multi-stim-v3-1-009,A civilian stim affecting strength and social.
+Civ T03-V007-6.56x3-0.075,3,rare,Medical,6.56,6.56,6.56,0,0,7%,0.03 kg,standard-multi-stim-v3-2-007,"A civilian stim affecting strength, agility, and stamina."
+Mil T03-V031-5.00x5-0.035,3,uncommon,Medical,5,5,5,5,5,3%,0.03 kg,minor-military-stim-v41031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Mil T05-V029-9.51x4-0.03,5,common,Medical,9.51,0,9.51,9.51,9.51,3%,0.03 kg,minor-military-stim-v51029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T05-V013-12.67x3-0.1,5,uncommon,Medical,12.67,0,12.67,0,12.67,10%,0.03 kg,minor-multi-stim-v51013,"A civilian stim affecting strength, stamina, and social."
+Civ T03-V022-6.56x3-0.075,3,rare,Medical,0,6.56,6.56,6.56,0,7%,0.03 kg,standard-multi-stim-v3-2-022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T04-V023-6.88x4-0.03,4,common,Medical,6.88,6.88,6.88,6.88,0,3%,0.03 kg,standard-military-stim-v42023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T05-V006-22.31x2-0.05,5,uncommon,Medical,0,22.31,22.31,0,0,5%,0.03 kg,strong-multi-stim-v5-3-006,A civilian stim affecting agility and stamina.
+Soc T02-V008-8.25-0.1,2,common,Medical,0,0,0,0,8.25,10%,0.03 kg,minor-social-stim-v11008,A basic social stim.
+Civ T03-V010-10.50x2-0.05,3,common,Medical,0,10.5,0,0,10.5,5%,0.03 kg,strong-multi-stim-v3-3-010,A civilian stim affecting agility and social.
+Civ T05-V013-13.58x3-0.075,5,common,Medical,13.58,0,13.58,0,13.58,7%,0.03 kg,standard-multi-stim-v5-2-013,"A civilian stim affecting strength, stamina, and social."
+Civ T05-V019-12.67x3-0.1,5,uncommon,Medical,12.67,12.67,0,12.67,0,10%,0.03 kg,minor-multi-stim-v51019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V026-4.80x3-0.1,2,uncommon,Medical,0,4.8,0,4.8,4.8,10%,0.03 kg,minor-multi-stim-v21026,"A civilian stim affecting agility, social, and intelligence."
+Agi T02-V002-8.25-0.1,2,common,Medical,0,8.25,0,0,0,10%,0.03 kg,minor-agility-stim-v11002,A basic agility stim.
+Mil T05-V030-14.12x4-0.03,5,epic,Medical,0,14.12,14.12,14.12,14.12,3%,0.03 kg,minor-military-stim-v61030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T05-V014-13.58x3-0.075,5,common,Medical,0,13.58,13.58,0,13.58,7%,0.03 kg,standard-multi-stim-v5-2-014,"A civilian stim affecting agility, stamina, and social."
+Civ T04-V013-9.19x3-0.075,4,uncommon,Medical,9.19,0,9.19,0,9.19,7%,0.03 kg,standard-multi-stim-v4-2-013,"A civilian stim affecting strength, stamina, and social."
+Mil T01-V029-3.93x4-0.03,1,epic,Medical,3.93,0,3.93,3.93,3.93,3%,0.03 kg,strong-military-stim-v23029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T04-V021-9.19x3-0.075,4,uncommon,Medical,9.19,0,9.19,9.19,0,7%,0.03 kg,standard-multi-stim-v4-2-021,"A civilian stim affecting strength, stamina, and intelligence."
+Mil T03-V029-7.54x4-0.03,3,epic,Medical,7.54,0,7.54,7.54,7.54,3%,0.03 kg,strong-military-stim-v43029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T05-V006-19.01x2-0.1,5,uncommon,Medical,0,19.01,19.01,0,0,10%,0.03 kg,minor-multi-stim-v5-1-006,A civilian stim affecting agility and stamina.
+Civ T04-V012-13.76x2-0.075,4,uncommon,Medical,0,0,13.76,0,13.76,7%,0.03 kg,standard-multi-stim-v4-2-012,A civilian stim affecting stamina and social.
+Civ T02-V017-7.20x2-0.1,2,uncommon,Medical,7.2,0,0,7.2,0,10%,0.03 kg,minor-multi-stim-v2-1-017,A civilian stim affecting strength and intelligence.
+Civ T05-V003-22.31x2-0.05,5,uncommon,Medical,22.31,22.31,0,0,0,5%,0.03 kg,strong-multi-stim-v5-3-003,A civilian stim affecting strength and agility.
+Civ T04-V011-8.32x3-0.1,4,common,Medical,8.32,8.32,0,0,8.32,10%,0.03 kg,minor-multi-stim-v41011,"A civilian stim affecting strength, agility, and social."
+Civ T03-V020-10.50x2-0.05,3,common,Medical,0,0,10.5,10.5,0,5%,0.03 kg,strong-multi-stim-v3-3-020,A civilian stim affecting stamina and intelligence.
+Agi T02-V002-9.75-0.05,2,common,Medical,0,9.75,0,0,0,5%,0.03 kg,strong-agility-stim-v13002,A basic agility stim.
+Civ T03-V014-6.11x3-0.1,3,rare,Medical,0,6.11,6.11,0,6.11,10%,0.03 kg,minor-multi-stim-v3-1-014,"A civilian stim affecting agility, stamina, and social."
+Mil T01-V015-3.93x4-0.03,1,epic,Medical,3.93,3.93,3.93,0,3.93,3%,0.03 kg,strong-military-stim-v23015,"A military stim affecting strength, agility, stamina, and social."
+Civ T02-V007-5.25x3-0.05,2,rare,Medical,5.25,5.25,5.25,0,0,5%,0.03 kg,strong-multi-stim-v2-3-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T04-V026-10.05x3-0.05,4,rare,Medical,0,10.05,0,10.05,10.05,5%,0.03 kg,strong-multi-stim-v4-3-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T03-V006-9.82x2-0.075,3,rare,Medical,0,9.82,9.82,0,0,7%,0.03 kg,standard-multi-stim-v3-2-006,A civilian stim affecting agility and stamina.
+Civ T02-V014-4.80x3-0.075,2,uncommon,Medical,0,4.8,4.8,0,4.8,7%,0.03 kg,standard-multi-stim-v2-2-014,"A civilian stim affecting agility, stamina, and social."
+Civ T05-V019-13.58x3-0.075,5,common,Medical,13.58,13.58,0,13.58,0,7%,0.03 kg,standard-multi-stim-v5-2-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T03-V025-6.11x3-0.1,3,rare,Medical,6.11,0,0,6.11,6.11,10%,0.03 kg,minor-multi-stim-v3-1-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T03-V011-6.56x3-0.075,3,rare,Medical,6.56,6.56,0,0,6.56,7%,0.03 kg,standard-multi-stim-v3-2-011,"A civilian stim affecting strength, agility, and social."
+Civ T03-V025-6.56x3-0.075,3,rare,Medical,6.56,0,0,6.56,6.56,7%,0.03 kg,standard-multi-stim-v3-2-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T05-V007-13.58x3-0.075,5,common,Medical,13.58,13.58,13.58,0,0,7%,0.03 kg,standard-multi-stim-v5-2-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T04-V013-10.05x3-0.05,4,rare,Medical,10.05,0,10.05,0,10.05,5%,0.03 kg,strong-multi-stim-v4-3-013,"A civilian stim affecting strength, stamina, and social."
+Civ T02-V024-7.20x2-0.075,2,uncommon,Medical,0,0,0,7.2,7.2,7%,0.03 kg,standard-multi-stim-v2-2-024,A civilian stim affecting social and intelligence.
+Civ T04-V025-9.19x3-0.075,4,uncommon,Medical,9.19,0,0,9.19,9.19,7%,0.03 kg,standard-multi-stim-v4-2-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T05-V022-13.58x3-0.075,5,common,Medical,0,13.58,13.58,13.58,0,7%,0.03 kg,standard-multi-stim-v5-2-022,"A civilian stim affecting agility, stamina, and intelligence."
+Civ T03-V012-9.82x2-0.075,3,rare,Medical,0,0,9.82,0,9.82,7%,0.03 kg,standard-multi-stim-v3-2-012,A civilian stim affecting stamina and social.
+Int T02-V016-9.75-0.05,2,common,Medical,0,0,0,9.75,0,5%,0.03 kg,strong-intelligence-stim-v13016,A basic intelligence stim.
+Civ T03-V006-10.50x2-0.05,3,common,Medical,0,10.5,10.5,0,0,5%,0.03 kg,strong-multi-stim-v3-3-006,A civilian stim affecting agility and stamina.
+Civ T03-V007-6.11x3-0.1,3,rare,Medical,6.11,6.11,6.11,0,0,10%,0.03 kg,minor-multi-stim-v3-1-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T02-V006-7.88x2-0.05,2,rare,Medical,0,7.88,7.88,0,0,5%,0.03 kg,strong-multi-stim-v2-3-006,A civilian stim affecting agility and stamina.
+Civ T03-V017-10.50x2-0.05,3,common,Medical,10.5,0,0,10.5,0,5%,0.03 kg,strong-multi-stim-v3-3-017,A civilian stim affecting strength and intelligence.
+Sta T02-V004-8.25-0.1,2,common,Medical,0,0,8.25,0,0,10%,0.03 kg,minor-stamina-stim-v11004,A basic stamina stim.
+Civ T02-V024-7.20x2-0.1,2,uncommon,Medical,0,0,0,7.2,7.2,10%,0.03 kg,minor-multi-stim-v2-1-024,A civilian stim affecting social and intelligence.
+Civ T04-V010-15.08x2-0.05,4,rare,Medical,0,15.08,0,0,15.08,5%,0.03 kg,strong-multi-stim-v4-3-010,A civilian stim affecting agility and social.
+Civ T05-V012-19.01x2-0.1,5,uncommon,Medical,0,0,19.01,0,19.01,10%,0.03 kg,minor-multi-stim-v5-1-012,A civilian stim affecting stamina and social.
+Str T02-V001-9.75-0.05,2,common,Medical,9.75,0,0,0,0,5%,0.03 kg,strong-strength-stim-v13001,A basic strength stim.
+Str T02-V001-10.31-0.1,2,common,Medical,10.31,0,0,0,0,10%,0.03 kg,minor-strength-stim-v21001,A basic strength stim.
+Agi T02-V002-14.06-0.075,2,uncommon,Medical,0,14.06,0,0,0,7%,0.03 kg,standard-agility-stim-v3-2-002,A basic agility stim.
+Civ T04-V021-10.05x3-0.05,4,rare,Medical,10.05,0,10.05,10.05,0,5%,0.03 kg,strong-multi-stim-v4-3-021,"A civilian stim affecting strength, stamina, and intelligence."
+Mil T01-V029-3.62x4-0.03,1,epic,Medical,3.62,0,3.62,3.62,3.62,3%,0.03 kg,standard-military-stim-v22029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T02-V024-7.88x2-0.05,2,rare,Medical,0,0,0,7.88,7.88,5%,0.03 kg,strong-multi-stim-v2-3-024,A civilian stim affecting social and intelligence.
+Civ T05-V026-12.67x3-0.1,5,uncommon,Medical,0,12.67,0,12.67,12.67,10%,0.03 kg,minor-multi-stim-v51026,"A civilian stim affecting agility, social, and intelligence."
+Str T02-V001-9.00-0.075,2,common,Medical,9,0,0,0,0,7%,0.03 kg,standard-strength-stim-v12001,A basic strength stim.
+Civ T02-V014-5.25x3-0.05,2,rare,Medical,0,5.25,5.25,0,5.25,5%,0.03 kg,strong-multi-stim-v2-3-014,"A civilian stim affecting agility, stamina, and social."
+Civ T03-V021-6.11x3-0.1,3,rare,Medical,6.11,0,6.11,6.11,0,10%,0.03 kg,minor-multi-stim-v3-1-021,"A civilian stim affecting strength, stamina, and intelligence."
+Str T02-V001-11.25-0.05,2,common,Medical,11.25,0,0,0,0,5%,0.03 kg,strong-strength-stim-v23001,A basic strength stim.
+Civ T05-V011-13.58x3-0.075,5,common,Medical,13.58,13.58,0,0,13.58,7%,0.03 kg,standard-multi-stim-v5-2-011,"A civilian stim affecting strength, agility, and social."
+Civ T05-V028-12.67x3-0.1,5,uncommon,Medical,0,0,12.67,12.67,12.67,10%,0.03 kg,minor-multi-stim-v51028,"A civilian stim affecting stamina, social, and intelligence."
+Civ T05-V021-14.89x3-0.05,5,uncommon,Medical,14.89,0,14.89,14.89,0,5%,0.03 kg,strong-multi-stim-v5-3-021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T03-V005-9.82x2-0.075,3,rare,Medical,9.82,0,9.82,0,0,7%,0.03 kg,standard-multi-stim-v3-2-005,A civilian stim affecting strength and stamina.
+Mil T05-V029-15.42x4-0.03,5,epic,Medical,15.42,0,15.42,15.42,15.42,3%,0.03 kg,standard-military-stim-v62029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T04-V024-15.08x2-0.05,4,rare,Medical,0,0,0,15.08,15.08,5%,0.03 kg,strong-multi-stim-v4-3-024,A civilian stim affecting social and intelligence.
+Civ T04-V012-15.08x2-0.05,4,rare,Medical,0,0,15.08,0,15.08,5%,0.03 kg,strong-multi-stim-v4-3-012,A civilian stim affecting stamina and social.
+Civ T05-V012-22.31x2-0.05,5,uncommon,Medical,0,0,22.31,0,22.31,5%,0.03 kg,strong-multi-stim-v5-3-012,A civilian stim affecting stamina and social.
+Soc T02-V008-9.75-0.05,2,common,Medical,0,0,0,0,9.75,5%,0.03 kg,strong-social-stim-v13008,A basic social stim.
+Civ T02-V010-7.20x2-0.1,2,uncommon,Medical,0,7.2,0,0,7.2,10%,0.03 kg,minor-multi-stim-v2-1-010,A civilian stim affecting agility and social.
+Civ T03-V020-9.82x2-0.075,3,rare,Medical,0,0,9.82,9.82,0,7%,0.03 kg,standard-multi-stim-v3-2-020,A civilian stim affecting stamina and intelligence.
+Civ T03-V028-6.11x3-0.1,3,rare,Medical,0,0,6.11,6.11,6.11,10%,0.03 kg,minor-multi-stim-v3-1-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T05-V023-14.12x4-0.03,5,epic,Medical,14.12,14.12,14.12,14.12,0,3%,0.03 kg,minor-military-stim-v61023,"A military stim affecting strength, agility, stamina, and intelligence."
+Mil T05-V027-16.74x4-0.03,5,epic,Medical,16.74,16.74,0,16.74,16.74,3%,0.03 kg,strong-military-stim-v63027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T04-V021-8.32x3-0.1,4,common,Medical,8.32,0,8.32,8.32,0,10%,0.03 kg,minor-multi-stim-v41021,"A civilian stim affecting strength, stamina, and intelligence."
+Mil T05-V015-14.12x4-0.03,5,epic,Medical,14.12,14.12,14.12,0,14.12,3%,0.03 kg,minor-military-stim-v61015,"A military stim affecting strength, agility, stamina, and social."
+Civ T02-V010-7.88x2-0.05,2,rare,Medical,0,7.88,0,0,7.88,5%,0.03 kg,strong-multi-stim-v2-3-010,A civilian stim affecting agility and social.
+Civ T03-V026-7.01x3-0.05,3,common,Medical,0,7.01,0,7.01,7.01,5%,0.03 kg,strong-multi-stim-v3-3-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T05-V018-20.33x2-0.075,5,rare,Medical,0,20.33,0,20.33,0,7%,0.03 kg,standard-multi-stim-v5-2-018,A civilian stim affecting agility and intelligence.
+Int T02-V016-11.25-0.05,2,common,Medical,0,0,0,11.25,0,5%,0.03 kg,strong-intelligence-stim-v23016,A basic intelligence stim.
+Civ T04-V022-8.32x3-0.1,4,common,Medical,0,8.32,8.32,8.32,0,10%,0.03 kg,minor-multi-stim-v41022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T04-V029-11.16x4-0.03,4,epic,Medical,11.16,0,11.16,11.16,11.16,3%,0.03 kg,strong-military-stim-v53029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T03-V017-9.19x2-0.1,3,rare,Medical,9.19,0,0,9.19,0,10%,0.03 kg,minor-multi-stim-v3-1-017,A civilian stim affecting strength and intelligence.
+Civ T05-V011-14.89x3-0.05,5,uncommon,Medical,14.89,14.89,0,0,14.89,5%,0.03 kg,strong-multi-stim-v5-3-011,"A civilian stim affecting strength, agility, and social."
+Civ T02-V019-5.25x3-0.05,2,rare,Medical,5.25,5.25,0,5.25,0,5%,0.03 kg,strong-multi-stim-v2-3-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V006-7.20x2-0.1,2,uncommon,Medical,0,7.2,7.2,0,0,10%,0.03 kg,minor-multi-stim-v2-1-006,A civilian stim affecting agility and stamina.
+Civ T04-V019-8.32x3-0.1,4,common,Medical,8.32,8.32,0,8.32,0,10%,0.03 kg,minor-multi-stim-v41019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T03-V014-6.56x3-0.075,3,rare,Medical,0,6.56,6.56,0,6.56,7%,0.03 kg,standard-multi-stim-v3-2-014,"A civilian stim affecting agility, stamina, and social."
+Soc T02-V008-15.00-0.05,2,uncommon,Medical,0,0,0,0,15,5%,0.03 kg,strong-social-stim-v3-3-008,A basic social stim.
+Mil T03-V029-4.59x4-0.03,3,common,Medical,4.59,0,4.59,4.59,4.59,3%,0.03 kg,minor-military-stim-v31029,"A military stim affecting strength, stamina, social, and intelligence."
+Mil T03-V015-4.92x4-0.03,3,common,Medical,4.92,4.92,4.92,0,4.92,3%,0.03 kg,standard-military-stim-v32015,"A military stim affecting strength, agility, stamina, and social."
+Civ T05-V017-19.01x2-0.1,5,uncommon,Medical,19.01,0,0,19.01,0,10%,0.03 kg,minor-multi-stim-v5-1-017,A civilian stim affecting strength and intelligence.
+Int T02-V016-14.06-0.075,2,uncommon,Medical,0,0,0,14.06,0,7%,0.03 kg,standard-intelligence-stim-v3-2-016,A basic intelligence stim.
+Civ T03-V005-9.19x2-0.1,3,rare,Medical,9.19,0,9.19,0,0,10%,0.03 kg,minor-multi-stim-v3-1-005,A civilian stim affecting strength and stamina.
+Mil T03-V015-6.24x4-0.03,3,uncommon,Medical,6.24,6.24,6.24,0,6.24,3%,0.03 kg,minor-military-stim-v41015,"A military stim affecting strength, agility, stamina, and social."
+Civ T03-V012-9.19x2-0.1,3,rare,Medical,0,0,9.19,0,9.19,10%,0.03 kg,minor-multi-stim-v3-1-012,A civilian stim affecting stamina and social.
+Civ T04-V014-10.05x3-0.05,4,rare,Medical,0,10.05,10.05,0,10.05,5%,0.03 kg,strong-multi-stim-v4-3-014,"A civilian stim affecting agility, stamina, and social."
+Mil T03-V027-4.59x4-0.03,3,common,Medical,4.59,4.59,0,4.59,4.59,3%,0.03 kg,minor-military-stim-v31027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T04-V018-15.08x2-0.05,4,rare,Medical,0,15.08,0,15.08,0,5%,0.03 kg,strong-multi-stim-v4-3-018,A civilian stim affecting agility and intelligence.
+Civ T05-V009-20.33x2-0.075,5,rare,Medical,20.33,0,0,0,20.33,7%,0.03 kg,standard-multi-stim-v5-2-009,A civilian stim affecting strength and social.
+Civ T04-V003-15.08x2-0.05,4,rare,Medical,15.08,15.08,0,0,0,5%,0.03 kg,strong-multi-stim-v43003,A civilian stim affecting strength and agility.
+Civ T05-V009-22.31x2-0.05,5,uncommon,Medical,22.31,0,0,0,22.31,5%,0.03 kg,strong-multi-stim-v5-3-009,A civilian stim affecting strength and social.
+Civ T03-V003-10.50x2-0.05,3,common,Medical,10.5,10.5,0,0,0,5%,0.03 kg,strong-multi-stim-v33003,A civilian stim affecting strength and agility.
+Agi T02-V002-13.12-0.1,2,common,Medical,0,13.12,0,0,0,10%,0.03 kg,minor-agility-stim-v3-1-002,A basic agility stim.
+Mil T03-V027-4.92x4-0.03,3,common,Medical,4.92,4.92,0,4.92,4.92,3%,0.03 kg,standard-military-stim-v32027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T02-V005-7.20x2-0.1,2,uncommon,Medical,7.2,0,7.2,0,0,10%,0.03 kg,minor-multi-stim-v21005,A civilian stim affecting strength and stamina.
+Agi T02-V002-11.25-0.05,2,common,Medical,0,11.25,0,0,0,5%,0.03 kg,strong-agility-stim-v23002,A basic agility stim.
+Mil T05-V023-9.51x4-0.03,5,common,Medical,9.51,9.51,9.51,9.51,0,3%,0.03 kg,minor-military-stim-v51023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T04-V010-12.45x2-0.1,4,common,Medical,0,12.45,0,0,12.45,10%,0.03 kg,minor-multi-stim-v4-1-010,A civilian stim affecting agility and social.
+Civ T04-V018-12.45x2-0.1,4,common,Medical,0,12.45,0,12.45,0,10%,0.03 kg,minor-multi-stim-v4-1-018,A civilian stim affecting agility and intelligence.
+Civ T05-V025-12.67x3-0.1,5,uncommon,Medical,12.67,0,0,12.67,12.67,10%,0.03 kg,minor-multi-stim-v51025,"A civilian stim affecting strength, social, and intelligence."
+Civ T03-V010-9.19x2-0.1,3,rare,Medical,0,9.19,0,0,9.19,10%,0.03 kg,minor-multi-stim-v3-1-010,A civilian stim affecting agility and social.
+Civ T04-V019-9.19x3-0.075,4,uncommon,Medical,9.19,9.19,0,9.19,0,7%,0.03 kg,standard-multi-stim-v4-2-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V013-5.25x3-0.05,2,rare,Medical,5.25,0,5.25,0,5.25,5%,0.03 kg,strong-multi-stim-v2-3-013,"A civilian stim affecting strength, stamina, and social."
+Str T02-V001-13.12-0.1,2,common,Medical,13.12,0,0,0,0,10%,0.03 kg,minor-strength-stim-v3-1-001,A basic strength stim.
+Civ T03-V005-10.50x2-0.05,3,common,Medical,10.5,0,10.5,0,0,5%,0.03 kg,strong-multi-stim-v33005,A civilian stim affecting strength and stamina.
+Sta T02-V004-15.00-0.05,2,uncommon,Medical,0,0,15,0,0,5%,0.03 kg,strong-stamina-stim-v3-3-004,A basic stamina stim.
+Civ T04-V011-10.05x3-0.05,4,rare,Medical,10.05,10.05,0,0,10.05,5%,0.03 kg,strong-multi-stim-v43011,"A civilian stim affecting strength, agility, and social."
+Civ T03-V028-6.56x3-0.075,3,rare,Medical,0,0,6.56,6.56,6.56,7%,0.03 kg,standard-multi-stim-v3-2-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T01-V023-3.59-3.62-3.65-3.62-0.03,1,epic,Medical,3.59,3.62,3.65,3.62,0,3%,0.03 kg,standard-military-stim-v22023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T02-V013-4.80x3-0.075,2,uncommon,Medical,4.8,0,4.8,0,4.8,7%,0.03 kg,standard-multi-stim-v2-2-013,"A civilian stim affecting strength, stamina, and social."
+Civ T02-V018-7.88x2-0.05,2,rare,Medical,0,7.88,0,7.88,0,5%,0.03 kg,strong-multi-stim-v2-3-018,A civilian stim affecting agility and intelligence.
+Civ T02-V013-4.80x3-0.1,2,uncommon,Medical,4.8,0,4.8,0,4.8,10%,0.03 kg,minor-multi-stim-v21013,"A civilian stim affecting strength, stamina, and social."
+Civ T02-V007-4.80x3-0.075,2,uncommon,Medical,4.8,4.8,4.8,0,0,7%,0.03 kg,standard-multi-stim-v2-2-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T05-V003-19.01x2-0.1,5,uncommon,Medical,19.01,19.01,0,0,0,10%,0.03 kg,minor-multi-stim-v5-1-003,A civilian stim affecting strength and agility.
+Civ T04-V013-8.32x3-0.1,4,common,Medical,8.32,0,8.32,0,8.32,10%,0.03 kg,minor-multi-stim-v41013,"A civilian stim affecting strength, stamina, and social."
+Mil T01-V027-3.62x4-0.03,1,epic,Medical,3.62,3.62,0,3.62,3.62,3%,0.03 kg,minor-military-stim-v21027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T03-V021-6.56x3-0.075,3,rare,Medical,6.56,0,6.56,6.56,0,7%,0.03 kg,standard-multi-stim-v3-2-021,"A civilian stim affecting strength, stamina, and intelligence."
+Mil T02-V015-5.25x4-0.03,2,epic,Medical,5.25,5.25,5.25,0,5.25,3%,0.03 kg,strong-military-stim-v33015,"A military stim affecting strength, agility, stamina, and social."
+Civ T04-V006-15.08x2-0.05,4,rare,Medical,0,15.08,15.08,0,0,5%,0.03 kg,strong-multi-stim-v4-3-006,A civilian stim affecting agility and stamina.
+Civ T02-V010-7.20x2-0.075,2,uncommon,Medical,0,7.2,0,0,7.2,7%,0.03 kg,standard-multi-stim-v2-2-010,A civilian stim affecting agility and social.
+Mil T01-V027-3.62-3.61-3.63-3.62-0.03,1,epic,Medical,3.62,3.61,0,3.62,3.63,3%,0.03 kg,standard-military-stim-v22027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T05-V007-14.89x3-0.05,5,uncommon,Medical,14.89,14.89,14.89,0,0,5%,0.03 kg,strong-multi-stim-v5-3-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T03-V024-10.50x2-0.05,3,common,Medical,0,0,0,10.5,10.5,5%,0.03 kg,strong-multi-stim-v3-3-024,A civilian stim affecting social and intelligence.
+Civ T05-V019-14.89x3-0.05,5,uncommon,Medical,14.89,14.89,0,14.89,0,5%,0.03 kg,strong-multi-stim-v5-3-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V019-4.80x3-0.1,2,uncommon,Medical,4.8,4.8,0,4.8,0,10%,0.03 kg,minor-multi-stim-v21019,"A civilian stim affecting strength, agility, and intelligence."
+Mil T02-V030-5.25x4-0.03,2,epic,Medical,0,5.25,5.25,5.25,5.25,3%,0.03 kg,strong-military-stim-v33030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T05-V010-20.33x2-0.075,5,rare,Medical,0,20.33,0,0,20.33,7%,0.03 kg,standard-multi-stim-v5-2-010,A civilian stim affecting agility and social.
+Civ T04-V010-13.76x2-0.075,4,uncommon,Medical,0,13.76,0,0,13.76,7%,0.03 kg,standard-multi-stim-v4-2-010,A civilian stim affecting agility and social.
+Mil T03-V030-4.59x4-0.03,3,common,Medical,0,4.59,4.59,4.59,4.59,3%,0.03 kg,minor-military-stim-v31030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T02-V026-4.80x3-0.075,2,uncommon,Medical,0,4.8,0,4.8,4.8,7%,0.03 kg,standard-multi-stim-v2-2-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T02-V003-7.20x2-0.075,2,uncommon,Medical,7.2,7.2,0,0,0,7%,0.03 kg,standard-multi-stim-v2-2-003,A civilian stim affecting strength and agility.
+Civ T05-V003-20.33x2-0.075,5,rare,Medical,20.33,20.33,0,0,0,7%,0.03 kg,standard-multi-stim-v5-2-003,A civilian stim affecting strength and agility.
+Mil T02-V023-5.25x4-0.03,2,epic,Medical,5.25,5.25,5.25,5.25,0,3%,0.03 kg,strong-military-stim-v33023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T04-V022-10.05x3-0.05,4,rare,Medical,0,10.05,10.05,10.05,0,5%,0.03 kg,strong-multi-stim-v4-3-022,"A civilian stim affecting agility, stamina, and intelligence."
+Civ T04-V005-13.76x2-0.075,4,uncommon,Medical,13.76,0,13.76,0,0,7%,0.03 kg,standard-multi-stim-v4-2-005,A civilian stim affecting strength and stamina.
+Civ T04-V014-8.32x3-0.1,4,common,Medical,0,8.32,8.32,0,8.32,10%,0.03 kg,minor-multi-stim-v41014,"A civilian stim affecting agility, stamina, and social."
+Civ T02-V005-7.88x2-0.05,2,rare,Medical,7.88,0,7.88,0,0,5%,0.03 kg,strong-multi-stim-v23005,A civilian stim affecting strength and stamina.
+Civ T02-V022-4.80x3-0.1,2,uncommon,Medical,0,4.8,4.8,4.8,0,10%,0.03 kg,minor-multi-stim-v21022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T05-V030-9.51x4-0.03,5,common,Medical,0,9.51,9.51,9.51,9.51,3%,0.03 kg,minor-military-stim-v51030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T04-V028-9.19x3-0.075,4,uncommon,Medical,0,0,9.19,9.19,9.19,7%,0.03 kg,standard-multi-stim-v4-2-028,"A civilian stim affecting stamina, social, and intelligence."
+Civ T03-V006-9.19x2-0.1,3,rare,Medical,0,9.19,9.19,0,0,10%,0.03 kg,minor-multi-stim-v3-1-006,A civilian stim affecting agility and stamina.
+Sta T02-V004-14.06-0.075,2,uncommon,Medical,0,0,14.06,0,0,7%,0.03 kg,standard-stamina-stim-v3-2-004,A basic stamina stim.
+Civ T03-V011-6.11x3-0.1,3,rare,Medical,6.11,6.11,0,0,6.11,10%,0.03 kg,minor-multi-stim-v3-1-011,"A civilian stim affecting strength, agility, and social."
+Civ T05-V011-12.67x3-0.1,5,uncommon,Medical,12.67,12.67,0,0,12.67,10%,0.03 kg,minor-multi-stim-v51011,"A civilian stim affecting strength, agility, and social."
+Mil T05-V015-15.42x4-0.03,5,epic,Medical,15.42,15.42,15.42,0,15.42,3%,0.03 kg,standard-military-stim-v62015,"A military stim affecting strength, agility, stamina, and social."
+Str T02-V001-8.25-0.1,2,common,Medical,8.25,0,0,0,0,10%,0.03 kg,minor-strength-stim-v11001,A basic strength stim.
+Mil T01-V030-3.60-3.62-3.64-3.62-0.03,1,epic,Medical,0,3.6,3.62,3.62,3.64,3%,0.03 kg,standard-military-stim-v22030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T03-V019-6.11x3-0.1,3,rare,Medical,6.11,6.11,0,6.11,0,10%,0.03 kg,minor-multi-stim-v3-1-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T03-V026-6.56x3-0.075,3,rare,Medical,0,6.56,0,6.56,6.56,7%,0.03 kg,standard-multi-stim-v3-2-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T02-V009-7.88x2-0.05,2,rare,Medical,7.88,0,0,0,7.88,5%,0.03 kg,strong-multi-stim-v2-3-009,A civilian stim affecting strength and social.
+Civ T04-V005-12.45x2-0.1,4,common,Medical,12.45,0,12.45,0,0,10%,0.03 kg,minor-multi-stim-v41005,A civilian stim affecting strength and stamina.
+Civ T05-V014-12.67x3-0.1,5,uncommon,Medical,0,12.67,12.67,0,12.67,10%,0.03 kg,minor-multi-stim-v51014,"A civilian stim affecting agility, stamina, and social."
+Civ T03-V028-7.01x3-0.05,3,common,Medical,0,0,7.01,7.01,7.01,5%,0.03 kg,strong-multi-stim-v3-3-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T05-V027-15.42x4-0.03,5,epic,Medical,15.42,15.42,0,15.42,15.42,3%,0.03 kg,standard-military-stim-v62027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T05-V025-13.58x3-0.075,5,common,Medical,13.58,0,0,13.58,13.58,7%,0.03 kg,standard-multi-stim-v5-2-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T05-V017-20.33x2-0.075,5,rare,Medical,20.33,0,0,20.33,0,7%,0.03 kg,standard-multi-stim-v5-2-017,A civilian stim affecting strength and intelligence.
+Civ T05-V009-19.01x2-0.1,5,uncommon,Medical,19.01,0,0,0,19.01,10%,0.03 kg,minor-multi-stim-v5-1-009,A civilian stim affecting strength and social.
+Civ T03-V011-7.01x3-0.05,3,common,Medical,7.01,7.01,0,0,7.01,5%,0.03 kg,strong-multi-stim-v3-3-011,"A civilian stim affecting strength, agility, and social."
+Civ T03-V013-7.01x3-0.05,3,common,Medical,7.01,0,7.01,0,7.01,5%,0.03 kg,strong-multi-stim-v3-3-013,"A civilian stim affecting strength, stamina, and social."
+Civ T02-V025-5.25x3-0.05,2,rare,Medical,5.25,0,0,5.25,5.25,5%,0.03 kg,strong-multi-stim-v2-3-025,"A civilian stim affecting strength, social, and intelligence."
+Soc T02-V008-10.31-0.1,2,common,Medical,0,0,0,0,10.31,10%,0.03 kg,minor-social-stim-v21008,A basic social stim.
+Civ T03-V014-7.01x3-0.05,3,common,Medical,0,7.01,7.01,0,7.01,5%,0.03 kg,strong-multi-stim-v3-3-014,"A civilian stim affecting agility, stamina, and social."
+Civ T03-V018-9.19x2-0.1,3,rare,Medical,0,9.19,0,9.19,0,10%,0.03 kg,minor-multi-stim-v3-1-018,A civilian stim affecting agility and intelligence.
+Civ T05-V014-14.89x3-0.05,5,uncommon,Medical,0,14.89,14.89,0,14.89,5%,0.03 kg,strong-multi-stim-v5-3-014,"A civilian stim affecting agility, stamina, and social."
+Sta T02-V004-10.31-0.075,2,common,Medical,0,0,10.31,0,0,7%,0.03 kg,standard-stamina-stim-v22004,A basic stamina stim.
+Civ T03-V009-9.82x2-0.075,3,rare,Medical,9.82,0,0,0,9.82,7%,0.03 kg,standard-multi-stim-v3-2-009,A civilian stim affecting strength and social.
+Civ T03-V013-6.56x3-0.075,3,rare,Medical,6.56,0,6.56,0,6.56,7%,0.03 kg,standard-multi-stim-v3-2-013,"A civilian stim affecting strength, stamina, and social."
+Civ T02-V021-4.80x3-0.1,2,uncommon,Medical,4.8,0,4.8,4.8,0,10%,0.03 kg,minor-multi-stim-v21021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T03-V026-6.11x3-0.1,3,rare,Medical,0,6.11,0,6.11,6.11,10%,0.03 kg,minor-multi-stim-v3-1-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T02-V028-5.25x3-0.05,2,rare,Medical,0,0,5.25,5.25,5.25,5%,0.03 kg,strong-multi-stim-v2-3-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T03-V031-6.04x5-0.035,3,epic,Medical,6.04,6.04,6.04,6.04,6.04,3%,0.03 kg,strong-military-stim-v43031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Sta T02-V004-9.00-0.075,2,common,Medical,0,0,9,0,0,7%,0.03 kg,standard-stamina-stim-v12004,A basic stamina stim.
+Soc T02-V008-10.31-0.075,2,common,Medical,0,0,0,0,10.31,7%,0.03 kg,standard-social-stim-v22008,A basic social stim.
+Civ T02-V003-7.20x2-0.1,2,uncommon,Medical,7.2,7.2,0,0,0,10%,0.03 kg,minor-multi-stim-v21003,A civilian stim affecting strength and agility.
+Mil T03-V015-7.54x4-0.03,3,epic,Medical,7.54,7.54,7.54,0,7.54,3%,0.03 kg,strong-military-stim-v43015,"A military stim affecting strength, agility, stamina, and social."
+Mil T03-V023-6.24x4-0.03,3,uncommon,Medical,6.24,6.24,6.24,6.24,0,3%,0.03 kg,minor-military-stim-v41023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T03-V025-7.01x3-0.05,3,common,Medical,7.01,0,0,7.01,7.01,5%,0.03 kg,strong-multi-stim-v3-3-025,"A civilian stim affecting strength, social, and intelligence."
+Mil T02-V031-4.20x5-0.035,2,epic,Medical,4.2,4.2,4.2,4.2,4.2,3%,0.03 kg,strong-military-stim-v33031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T05-V007-12.67x3-0.1,5,uncommon,Medical,12.67,12.67,12.67,0,0,10%,0.03 kg,minor-multi-stim-v51007,"A civilian stim affecting strength, agility, and stamina."
+Civ T04-V006-12.45x2-0.1,4,common,Medical,0,12.45,12.45,0,0,10%,0.03 kg,minor-multi-stim-v4-1-006,A civilian stim affecting agility and stamina.
+Civ T02-V012-7.20x2-0.1,2,uncommon,Medical,0,0,7.2,0,7.2,10%,0.03 kg,minor-multi-stim-v2-1-012,A civilian stim affecting stamina and social.
+Civ T05-V010-22.31x2-0.05,5,uncommon,Medical,0,22.31,0,0,22.31,5%,0.03 kg,strong-multi-stim-v5-3-010,A civilian stim affecting agility and social.
+Civ T03-V022-6.11x3-0.1,3,rare,Medical,0,6.11,6.11,6.11,0,10%,0.03 kg,minor-multi-stim-v3-1-022,"A civilian stim affecting agility, stamina, and intelligence."
+Civ T05-V005-20.33x2-0.075,5,rare,Medical,20.33,0,20.33,0,0,7%,0.03 kg,standard-multi-stim-v5-2-005,A civilian stim affecting strength and stamina.
+Civ T02-V020-7.20x2-0.075,2,uncommon,Medical,0,0,7.2,7.2,0,7%,0.03 kg,standard-multi-stim-v2-2-020,A civilian stim affecting stamina and intelligence.
+Civ T02-V011-4.80x3-0.075,2,uncommon,Medical,4.8,4.8,0,0,4.8,7%,0.03 kg,standard-multi-stim-v2-2-011,"A civilian stim affecting strength, agility, and social."
+Mil T05-V027-14.12x4-0.03,5,epic,Medical,14.12,14.12,0,14.12,14.12,3%,0.03 kg,minor-military-stim-v61027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T02-V028-4.80x3-0.1,2,uncommon,Medical,0,0,4.8,4.8,4.8,10%,0.03 kg,minor-multi-stim-v21028,"A civilian stim affecting stamina, social, and intelligence."
+Civ T05-V010-19.01x2-0.1,5,uncommon,Medical,0,19.01,0,0,19.01,10%,0.03 kg,minor-multi-stim-v5-1-010,A civilian stim affecting agility and social.
+Mil T01-V023-3.93x4-0.03,1,epic,Medical,3.93,3.93,3.93,3.93,0,3%,0.03 kg,strong-military-stim-v23023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T02-V014-4.80x3-0.1,2,uncommon,Medical,0,4.8,4.8,0,4.8,10%,0.03 kg,minor-multi-stim-v21014,"A civilian stim affecting agility, stamina, and social."
+Mil T03-V029-4.92x4-0.03,3,common,Medical,4.92,0,4.92,4.92,4.92,3%,0.03 kg,standard-military-stim-v32029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T03-V022-7.01x3-0.05,3,common,Medical,0,7.01,7.01,7.01,0,5%,0.03 kg,strong-multi-stim-v3-3-022,"A civilian stim affecting agility, stamina, and intelligence."
+Sta T02-V004-13.12-0.1,2,common,Medical,0,0,13.12,0,0,10%,0.03 kg,minor-stamina-stim-v3-1-004,A basic stamina stim.
+Mil T03-V030-7.54x4-0.03,3,epic,Medical,0,7.54,7.54,7.54,7.54,3%,0.03 kg,strong-military-stim-v43030,"A military stim affecting agility, stamina, social, and intelligence."
+Mil T01-V031-3.15x5-0.035,1,epic,Medical,3.15,3.15,3.15,3.15,3.15,3%,0.03 kg,strong-military-stim-v23031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T04-V025-8.32x3-0.1,4,common,Medical,8.32,0,0,8.32,8.32,10%,0.03 kg,minor-multi-stim-v41025,"A civilian stim affecting strength, social, and intelligence."
+Mil T05-V031-12.33x5-0.035,5,epic,Medical,12.33,12.33,12.33,12.33,12.33,3%,0.03 kg,standard-military-stim-v62031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T03-V007-7.01x3-0.05,3,common,Medical,7.01,7.01,7.01,0,0,5%,0.03 kg,strong-multi-stim-v3-3-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T02-V011-4.80x3-0.1,2,uncommon,Medical,4.8,4.8,0,0,4.8,10%,0.03 kg,minor-multi-stim-v21011,"A civilian stim affecting strength, agility, and social."
+Civ T04-V020-12.45x2-0.1,4,common,Medical,0,0,12.45,12.45,0,10%,0.03 kg,minor-multi-stim-v4-1-020,A civilian stim affecting stamina and intelligence.
+Str T02-V001-15.00-0.05,2,uncommon,Medical,15,0,0,0,0,5%,0.03 kg,strong-strength-stim-v3-3-001,A basic strength stim.
+Mil T04-V015-6.88x4-0.03,4,common,Medical,6.88,6.88,6.88,0,6.88,3%,0.03 kg,standard-military-stim-v42015,"A military stim affecting strength, agility, stamina, and social."
+Civ T03-V013-6.11x3-0.1,3,rare,Medical,6.11,0,6.11,0,6.11,10%,0.03 kg,minor-multi-stim-v3-1-013,"A civilian stim affecting strength, stamina, and social."
+Mil T04-V015-10.17x4-0.03,4,epic,Medical,10.17,10.17,10.17,0,10.17,3%,0.03 kg,standard-military-stim-v52015,"A military stim affecting strength, agility, stamina, and social."
+Civ T04-V006-13.76x2-0.075,4,uncommon,Medical,0,13.76,13.76,0,0,7%,0.03 kg,standard-multi-stim-v4-2-006,A civilian stim affecting agility and stamina.
+Mil T05-V015-16.74x4-0.03,5,epic,Medical,16.74,16.74,16.74,0,16.74,3%,0.03 kg,strong-military-stim-v63015,"A military stim affecting strength, agility, stamina, and social."
+Civ T03-V019-7.01x3-0.05,3,common,Medical,7.01,7.01,0,7.01,0,5%,0.03 kg,strong-multi-stim-v3-3-019,"A civilian stim affecting strength, agility, and intelligence."
+Mil T03-V015-4.59x4-0.03,3,common,Medical,4.59,4.59,4.59,0,4.59,3%,0.03 kg,minor-military-stim-v31015,"A military stim affecting strength, agility, stamina, and social."
+Civ T02-V003-7.88x2-0.05,2,rare,Medical,7.88,7.88,0,0,0,5%,0.03 kg,strong-multi-stim-v23003,A civilian stim affecting strength and agility.
+Civ T04-V003-13.76x2-0.075,4,uncommon,Medical,13.76,13.76,0,0,0,7%,0.03 kg,standard-multi-stim-v4-2-003,A civilian stim affecting strength and agility.
+Mil T04-V023-10.17x4-0.03,4,epic,Medical,10.17,10.17,10.17,10.17,0,3%,0.03 kg,standard-military-stim-v52023,"A military stim affecting strength, agility, stamina, and intelligence."
+Sta T02-V004-10.31-0.1,2,common,Medical,0,0,10.31,0,0,10%,0.03 kg,minor-stamina-stim-v21004,A basic stamina stim.
+Civ T04-V011-9.19x3-0.075,4,uncommon,Medical,9.19,9.19,0,0,9.19,7%,0.03 kg,standard-multi-stim-v4-2-011,"A civilian stim affecting strength, agility, and social."
+Civ T03-V018-9.82x2-0.075,3,rare,Medical,0,9.82,0,9.82,0,7%,0.03 kg,standard-multi-stim-v3-2-018,A civilian stim affecting agility and intelligence.
+Civ T05-V018-22.31x2-0.05,5,uncommon,Medical,0,22.31,0,22.31,0,5%,0.03 kg,strong-multi-stim-v5-3-018,A civilian stim affecting agility and intelligence.
+Civ T05-V026-13.58x3-0.075,5,common,Medical,0,13.58,0,13.58,13.58,7%,0.03 kg,standard-multi-stim-v5-2-026,"A civilian stim affecting agility, social, and intelligence."
+Mil T04-V027-6.88x4-0.03,4,common,Medical,6.88,6.88,0,6.88,6.88,3%,0.03 kg,standard-military-stim-v42027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T04-V020-13.76x2-0.075,4,uncommon,Medical,0,0,13.76,13.76,0,7%,0.03 kg,standard-multi-stim-v4-2-020,A civilian stim affecting stamina and intelligence.
+Civ T03-V021-7.01x3-0.05,3,common,Medical,7.01,0,7.01,7.01,0,5%,0.03 kg,strong-multi-stim-v3-3-021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T02-V009-7.20x2-0.1,2,uncommon,Medical,7.2,0,0,0,7.2,10%,0.03 kg,minor-multi-stim-v2-1-009,A civilian stim affecting strength and social.
+Civ T04-V020-15.08x2-0.05,4,rare,Medical,0,0,15.08,15.08,0,5%,0.03 kg,strong-multi-stim-v4-3-020,A civilian stim affecting stamina and intelligence.
+Mil T03-V027-6.24x4-0.03,3,uncommon,Medical,6.24,6.24,0,6.24,6.24,3%,0.03 kg,minor-military-stim-v41027,"A military stim affecting strength, agility, social, and intelligence."
+Int T02-V016-10.31-0.1,2,common,Medical,0,0,0,10.31,0,10%,0.03 kg,minor-intelligence-stim-v21016,A basic intelligence stim.
+Civ T03-V012-10.50x2-0.05,3,common,Medical,0,0,10.5,0,10.5,5%,0.03 kg,strong-multi-stim-v3-3-012,A civilian stim affecting stamina and social.
+Civ T03-V020-9.19x2-0.1,3,rare,Medical,0,0,9.19,9.19,0,10%,0.03 kg,minor-multi-stim-v3-1-020,A civilian stim affecting stamina and intelligence.
+Civ T04-V024-13.76x2-0.075,4,uncommon,Medical,0,0,0,13.76,13.76,7%,0.03 kg,standard-multi-stim-v4-2-024,A civilian stim affecting social and intelligence.
+Civ T05-V012-20.33x2-0.075,5,rare,Medical,0,0,20.33,0,20.33,7%,0.03 kg,standard-multi-stim-v5-2-012,A civilian stim affecting stamina and social.
+Civ T04-V012-12.45x2-0.1,4,common,Medical,0,0,12.45,0,12.45,10%,0.03 kg,minor-multi-stim-v4-1-012,A civilian stim affecting stamina and social.
+Sta T02-V004-11.25-0.05,2,common,Medical,0,0,11.25,0,0,5%,0.03 kg,strong-stamina-stim-v23004,A basic stamina stim.
+Civ T05-V005-22.31x2-0.05,5,uncommon,Medical,22.31,0,22.31,0,0,5%,0.03 kg,strong-multi-stim-v5-3-005,A civilian stim affecting strength and stamina.
+Mil T04-V029-6.88x4-0.03,4,common,Medical,6.88,0,6.88,6.88,6.88,3%,0.03 kg,standard-military-stim-v42029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T05-V022-14.89x3-0.05,5,uncommon,Medical,0,14.89,14.89,14.89,0,5%,0.03 kg,strong-multi-stim-v5-3-022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T05-V031-7.62x5-0.035,5,common,Medical,7.62,7.62,7.62,7.62,7.62,3%,0.03 kg,minor-military-stim-v51031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Mil T05-V031-11.29x5-0.035,5,epic,Medical,11.29,11.29,11.29,11.29,11.29,3%,0.03 kg,minor-military-stim-v61031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T02-V006-7.20x2-0.075,2,uncommon,Medical,0,7.2,7.2,0,0,7%,0.03 kg,standard-multi-stim-v2-2-006,A civilian stim affecting agility and stamina.
+Civ T02-V021-5.25x3-0.05,2,rare,Medical,5.25,0,5.25,5.25,0,5%,0.03 kg,strong-multi-stim-v2-3-021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T04-V022-9.19x3-0.075,4,uncommon,Medical,0,9.19,9.19,9.19,0,7%,0.03 kg,standard-multi-stim-v4-2-022,"A civilian stim affecting agility, stamina, and intelligence."
+Soc T02-V008-13.12-0.1,2,common,Medical,0,0,0,0,13.12,10%,0.03 kg,minor-social-stim-v3-1-008,A basic social stim.
+Civ T03-V017-9.82x2-0.075,3,rare,Medical,9.82,0,0,9.82,0,7%,0.03 kg,standard-multi-stim-v3-2-017,A civilian stim affecting strength and intelligence.
+Int T02-V016-10.31-0.075,2,common,Medical,0,0,0,10.31,0,7%,0.03 kg,standard-intelligence-stim-v22016,A basic intelligence stim.
+Soc T02-V008-11.25-0.05,2,common,Medical,0,0,0,0,11.25,5%,0.03 kg,strong-social-stim-v23008,A basic social stim.
+Civ T04-V028-8.32x3-0.1,4,common,Medical,0,0,8.32,8.32,8.32,10%,0.03 kg,minor-multi-stim-v41028,"A civilian stim affecting stamina, social, and intelligence."
+Civ T04-V007-9.19x3-0.075,4,uncommon,Medical,9.19,9.19,9.19,0,0,7%,0.03 kg,standard-multi-stim-v4-2-007,"A civilian stim affecting strength, agility, and stamina."
+Civ T02-V021-4.80x3-0.075,2,uncommon,Medical,4.8,0,4.8,4.8,0,7%,0.03 kg,standard-multi-stim-v2-2-021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T05-V028-14.89x3-0.05,5,uncommon,Medical,0,0,14.89,14.89,14.89,5%,0.03 kg,strong-multi-stim-v5-3-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T02-V029-5.25x4-0.03,2,epic,Medical,5.25,0,5.25,5.25,5.25,3%,0.03 kg,strong-military-stim-v33029,"A military stim affecting strength, stamina, social, and intelligence."
+Int T02-V016-8.25-0.1,2,common,Medical,0,0,0,8.25,0,10%,0.03 kg,minor-intelligence-stim-v11016,A basic intelligence stim.
+Mil T05-V030-16.74x4-0.03,5,epic,Medical,0,16.74,16.74,16.74,16.74,3%,0.03 kg,strong-military-stim-v63030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T02-V007-4.80x3-0.1,2,uncommon,Medical,4.8,4.8,4.8,0,0,10%,0.03 kg,minor-multi-stim-v21007,"A civilian stim affecting strength, agility, and stamina."
+Civ T03-V018-10.50x2-0.05,3,common,Medical,0,10.5,0,10.5,0,5%,0.03 kg,strong-multi-stim-v3-3-018,A civilian stim affecting agility and intelligence.
+Civ T02-V012-7.20x2-0.075,2,uncommon,Medical,0,0,7.2,0,7.2,7%,0.03 kg,standard-multi-stim-v2-2-012,A civilian stim affecting stamina and social.
+Civ T04-V009-12.45x2-0.1,4,common,Medical,12.45,0,0,0,12.45,10%,0.03 kg,minor-multi-stim-v4-1-009,A civilian stim affecting strength and social.
+Soc T02-V008-14.06-0.075,2,uncommon,Medical,0,0,0,0,14.06,7%,0.03 kg,standard-social-stim-v3-2-008,A basic social stim.
+Sta T02-V004-9.75-0.05,2,common,Medical,0,0,9.75,0,0,5%,0.03 kg,strong-stamina-stim-v13004,A basic stamina stim.
+Int T02-V016-15.00-0.05,2,uncommon,Medical,0,0,0,15,0,5%,0.03 kg,strong-intelligence-stim-v3-3-016,A basic intelligence stim.
+Civ T05-V024-19.01x2-0.1,5,uncommon,Medical,0,0,0,19.01,19.01,10%,0.03 kg,minor-multi-stim-v5-1-024,A civilian stim affecting social and intelligence.
+Str T02-V001-10.31-0.075,2,common,Medical,10.31,0,0,0,0,7%,0.03 kg,standard-strength-stim-v22001,A basic strength stim.
+Mil T03-V029-6.24x4-0.03,3,uncommon,Medical,6.24,0,6.24,6.24,6.24,3%,0.03 kg,minor-military-stim-v41029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T03-V009-10.50x2-0.05,3,common,Medical,10.5,0,0,0,10.5,5%,0.03 kg,strong-multi-stim-v3-3-009,A civilian stim affecting strength and social.
+Civ T03-V024-9.19x2-0.1,3,rare,Medical,0,0,0,9.19,9.19,10%,0.03 kg,minor-multi-stim-v3-1-024,A civilian stim affecting social and intelligence.
+Civ T02-V009-7.20x2-0.075,2,uncommon,Medical,7.2,0,0,0,7.2,7%,0.03 kg,standard-multi-stim-v2-2-009,A civilian stim affecting strength and social.
+Civ T03-V019-6.56x3-0.075,3,rare,Medical,6.56,6.56,0,6.56,0,7%,0.03 kg,standard-multi-stim-v3-2-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V017-7.20x2-0.075,2,uncommon,Medical,7.2,0,0,7.2,0,7%,0.03 kg,standard-multi-stim-v2-2-017,A civilian stim affecting strength and intelligence.
+Civ T05-V020-22.31x2-0.05,5,uncommon,Medical,0,0,22.31,22.31,0,5%,0.03 kg,strong-multi-stim-v5-3-020,A civilian stim affecting stamina and intelligence.
+Civ T02-V011-5.25x3-0.05,2,rare,Medical,5.25,5.25,0,0,5.25,5%,0.03 kg,strong-multi-stim-v23011,"A civilian stim affecting strength, agility, and social."
+Mil T05-V029-14.12x4-0.03,5,epic,Medical,14.12,0,14.12,14.12,14.12,3%,0.03 kg,minor-military-stim-v61029,"A military stim affecting strength, stamina, social, and intelligence."
+Civ T04-V024-12.45x2-0.1,4,common,Medical,0,0,0,12.45,12.45,10%,0.03 kg,minor-multi-stim-v4-1-024,A civilian stim affecting social and intelligence.
+Civ T05-V013-14.89x3-0.05,5,uncommon,Medical,14.89,0,14.89,0,14.89,5%,0.03 kg,strong-multi-stim-v5-3-013,"A civilian stim affecting strength, stamina, and social."
+Civ T04-V025-10.05x3-0.05,4,rare,Medical,10.05,0,0,10.05,10.05,5%,0.03 kg,strong-multi-stim-v4-3-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T02-V017-7.88x2-0.05,2,rare,Medical,7.88,0,0,7.88,0,5%,0.03 kg,strong-multi-stim-v2-3-017,A civilian stim affecting strength and intelligence.
+Civ T04-V019-10.05x3-0.05,4,rare,Medical,10.05,10.05,0,10.05,0,5%,0.03 kg,strong-multi-stim-v4-3-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V025-4.80x3-0.075,2,uncommon,Medical,4.8,0,0,4.8,4.8,7%,0.03 kg,standard-multi-stim-v2-2-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T04-V014-9.19x3-0.075,4,uncommon,Medical,0,9.19,9.19,0,9.19,7%,0.03 kg,standard-multi-stim-v4-2-014,"A civilian stim affecting agility, stamina, and social."
+Civ T04-V007-10.05x3-0.05,4,rare,Medical,10.05,10.05,10.05,0,0,5%,0.03 kg,strong-multi-stim-v4-3-007,"A civilian stim affecting strength, agility, and stamina."
+Mil T03-V031-5.50x5-0.035,3,rare,Medical,5.5,5.5,5.5,5.5,5.5,3%,0.03 kg,standard-military-stim-v42031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T04-V017-12.45x2-0.1,4,common,Medical,12.45,0,0,12.45,0,10%,0.03 kg,minor-multi-stim-v4-1-017,A civilian stim affecting strength and intelligence.
+Int T02-V016-13.12-0.1,2,common,Medical,0,0,0,13.12,0,10%,0.03 kg,minor-intelligence-stim-v3-1-016,A basic intelligence stim.
+Civ T02-V012-7.88x2-0.05,2,rare,Medical,0,0,7.88,0,7.88,5%,0.03 kg,strong-multi-stim-v2-3-012,A civilian stim affecting stamina and social.
+Civ T05-V022-12.67x3-0.1,5,uncommon,Medical,0,12.67,12.67,12.67,0,10%,0.03 kg,minor-multi-stim-v51022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T03-V030-4.92x4-0.03,3,common,Medical,0,4.92,4.92,4.92,4.92,3%,0.03 kg,standard-military-stim-v32030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T05-V025-14.89x3-0.05,5,uncommon,Medical,14.89,0,0,14.89,14.89,5%,0.03 kg,strong-multi-stim-v5-3-025,"A civilian stim affecting strength, social, and intelligence."
+Civ T05-V028-13.58x3-0.075,5,common,Medical,0,0,13.58,13.58,13.58,7%,0.03 kg,standard-multi-stim-v5-2-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T04-V030-6.88x4-0.03,4,common,Medical,0,6.88,6.88,6.88,6.88,3%,0.03 kg,standard-military-stim-v42030,"A military stim affecting agility, stamina, social, and intelligence."
+Mil T03-V023-4.59x4-0.03,3,common,Medical,4.59,4.59,4.59,4.59,0,3%,0.03 kg,minor-military-stim-v31023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T02-V026-5.25x3-0.05,2,rare,Medical,0,5.25,0,5.25,5.25,5%,0.03 kg,strong-multi-stim-v2-3-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T04-V003-12.45x2-0.1,4,common,Medical,12.45,12.45,0,0,0,10%,0.03 kg,minor-multi-stim-v41003,A civilian stim affecting strength and agility.
+Civ T05-V018-19.01x2-0.1,5,uncommon,Medical,0,19.01,0,19.01,0,10%,0.03 kg,minor-multi-stim-v5-1-018,A civilian stim affecting agility and intelligence.
+Agi T02-V002-10.31-0.075,2,common,Medical,0,10.31,0,0,0,7%,0.03 kg,standard-agility-stim-v22002,A basic agility stim.
+Int T02-V016-9.00-0.075,2,common,Medical,0,0,0,9,0,7%,0.03 kg,standard-intelligence-stim-v12016,A basic intelligence stim.
+Str T02-V001-14.06-0.075,2,uncommon,Medical,14.06,0,0,0,0,7%,0.03 kg,standard-strength-stim-v3-2-001,A basic strength stim.
+Civ T05-V026-14.89x3-0.05,5,uncommon,Medical,0,14.89,0,14.89,14.89,5%,0.03 kg,strong-multi-stim-v5-3-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T04-V009-13.76x2-0.075,4,uncommon,Medical,13.76,0,0,0,13.76,7%,0.03 kg,standard-multi-stim-v4-2-009,A civilian stim affecting strength and social.
+Civ T02-V022-5.25x3-0.05,2,rare,Medical,0,5.25,5.25,5.25,0,5%,0.03 kg,strong-multi-stim-v2-3-022,"A civilian stim affecting agility, stamina, and intelligence."
+Mil T01-V029-3.60-3.62-3.68-3.62-0.03,1,epic,Medical,3.6,0,3.62,3.62,3.68,3%,0.03 kg,minor-military-stim-v21029,"A military stim affecting strength, stamina, social, and intelligence."
+Mil T03-V023-4.92x4-0.03,3,common,Medical,4.92,4.92,4.92,4.92,0,3%,0.03 kg,standard-military-stim-v32023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T03-V003-9.82x2-0.075,3,rare,Medical,9.82,9.82,0,0,0,7%,0.03 kg,standard-multi-stim-v3-2-003,A civilian stim affecting strength and agility.
+Civ T05-V024-20.33x2-0.075,5,rare,Medical,0,0,0,20.33,20.33,7%,0.03 kg,standard-multi-stim-v5-2-024,A civilian stim affecting social and intelligence.
+Civ T04-V026-8.32x3-0.1,4,common,Medical,0,8.32,0,8.32,8.32,10%,0.03 kg,minor-multi-stim-v41026,"A civilian stim affecting agility, social, and intelligence."
+Civ T03-V024-9.82x2-0.075,3,rare,Medical,0,0,0,9.82,9.82,7%,0.03 kg,standard-multi-stim-v3-2-024,A civilian stim affecting social and intelligence.
+Mil T03-V031-3.68x5-0.035,3,common,Medical,3.68,3.68,3.68,3.68,3.68,3%,0.03 kg,minor-military-stim-v31031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T05-V024-22.31x2-0.05,5,uncommon,Medical,0,0,0,22.31,22.31,5%,0.03 kg,strong-multi-stim-v5-3-024,A civilian stim affecting social and intelligence.
+Civ T02-V028-4.80x3-0.075,2,uncommon,Medical,0,0,4.8,4.8,4.8,7%,0.03 kg,standard-multi-stim-v2-2-028,"A civilian stim affecting stamina, social, and intelligence."
+Mil T03-V023-7.54x4-0.03,3,epic,Medical,7.54,7.54,7.54,7.54,0,3%,0.03 kg,strong-military-stim-v43023,"A military stim affecting strength, agility, stamina, and intelligence."
+Civ T04-V028-10.05x3-0.05,4,rare,Medical,0,0,10.05,10.05,10.05,5%,0.03 kg,strong-multi-stim-v4-3-028,"A civilian stim affecting stamina, social, and intelligence."
+Civ T05-V006-20.33x2-0.075,5,rare,Medical,0,20.33,20.33,0,0,7%,0.03 kg,standard-multi-stim-v5-2-006,A civilian stim affecting agility and stamina.
+Civ T05-V021-13.58x3-0.075,5,common,Medical,13.58,0,13.58,13.58,0,7%,0.03 kg,standard-multi-stim-v5-2-021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T05-V021-12.67x3-0.1,5,uncommon,Medical,12.67,0,12.67,12.67,0,10%,0.03 kg,minor-multi-stim-v51021,"A civilian stim affecting strength, stamina, and intelligence."
+Civ T02-V022-4.80x3-0.075,2,uncommon,Medical,0,4.8,4.8,4.8,0,7%,0.03 kg,standard-multi-stim-v2-2-022,"A civilian stim affecting agility, stamina, and intelligence."
+Soc T02-V008-9.00-0.075,2,common,Medical,0,0,0,0,9,7%,0.03 kg,standard-social-stim-v12008,A basic social stim.
+Mil T04-V031-8.13x5-0.035,4,epic,Medical,8.13,8.13,8.13,8.13,8.13,3%,0.03 kg,standard-military-stim-v52031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Mil T05-V031-13.39x5-0.035,5,epic,Medical,13.39,13.39,13.39,13.39,13.39,3%,0.03 kg,strong-military-stim-v63031,"A military stim affecting strength, agility, stamina, social, and intelligence."
+Civ T02-V020-7.88x2-0.05,2,rare,Medical,0,0,7.88,7.88,0,5%,0.03 kg,strong-multi-stim-v2-3-020,A civilian stim affecting stamina and intelligence.
+Civ T02-V005-7.20x2-0.075,2,uncommon,Medical,7.2,0,7.2,0,0,7%,0.03 kg,standard-multi-stim-v2-2-005,A civilian stim affecting strength and stamina.
+Civ T02-V020-7.20x2-0.1,2,uncommon,Medical,0,0,7.2,7.2,0,10%,0.03 kg,minor-multi-stim-v2-1-020,A civilian stim affecting stamina and intelligence.
+Mil T03-V030-6.24x4-0.03,3,uncommon,Medical,0,6.24,6.24,6.24,6.24,3%,0.03 kg,minor-military-stim-v41030,"A military stim affecting agility, stamina, social, and intelligence."
+Civ T04-V026-9.19x3-0.075,4,uncommon,Medical,0,9.19,0,9.19,9.19,7%,0.03 kg,standard-multi-stim-v4-2-026,"A civilian stim affecting agility, social, and intelligence."
+Civ T02-V019-4.80x3-0.075,2,uncommon,Medical,4.8,4.8,0,4.8,0,7%,0.03 kg,standard-multi-stim-v2-2-019,"A civilian stim affecting strength, agility, and intelligence."
+Civ T02-V018-7.20x2-0.1,2,uncommon,Medical,0,7.2,0,7.2,0,10%,0.03 kg,minor-multi-stim-v2-1-018,A civilian stim affecting agility and intelligence.
+Mil T02-V027-5.25x4-0.03,2,epic,Medical,5.25,5.25,0,5.25,5.25,3%,0.03 kg,strong-military-stim-v33027,"A military stim affecting strength, agility, social, and intelligence."
+Civ T05-V020-19.01x2-0.1,5,uncommon,Medical,0,0,19.01,19.01,0,10%,0.03 kg,minor-multi-stim-v5-1-020,A civilian stim affecting stamina and intelligence.
+Mil T05-V015-9.51x4-0.03,5,common,Medical,9.51,9.51,9.51,0,9.51,3%,0.03 kg,minor-military-stim-v51015,"A military stim affecting strength, agility, stamina, and social."
+Civ T03-V003-9.19x2-0.1,3,rare,Medical,9.19,9.19,0,0,0,10%,0.03 kg,minor-multi-stim-v3-1-003,A civilian stim affecting strength and agility.
+Civ T02-V018-7.20x2-0.075,2,uncommon,Medical,0,7.2,0,7.2,0,7%,0.03 kg,standard-multi-stim-v2-2-018,A civilian stim affecting agility and intelligence.
+Civ T04-V005-15.08x2-0.05,4,rare,Medical,15.08,0,15.08,0,0,5%,0.03 kg,strong-multi-stim-v43005,A civilian stim affecting strength and stamina.
+Civ T04-V018-13.76x2-0.075,4,uncommon,Medical,0,13.76,0,13.76,0,7%,0.03 kg,standard-multi-stim-v4-2-018,A civilian stim affecting agility and intelligence.
+Civ T05-V017-22.31x2-0.05,5,uncommon,Medical,22.31,0,0,22.31,0,5%,0.03 kg,strong-multi-stim-v5-3-017,A civilian stim affecting strength and intelligence.
+Mil T01-V015-3.62-3.66-3.58-3.62-0.03,1,epic,Medical,3.62,3.66,3.58,0,3.62,3%,0.03 kg,standard-military-stim-v22015,"A military stim affecting strength, agility, stamina, and social."
