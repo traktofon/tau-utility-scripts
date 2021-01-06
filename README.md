@@ -26,6 +26,12 @@ station fuel price (for stations that have vendors) based on items that are eith
 single or at just two vendors.  Requires `tau-vendors.csv`.
 
 
+`get-fuel-price-strategy-from-tracker.py`
+
+Similar, but doesn't require `tau-vendors.csv`. Instead pricing information is pulled from
+the Tau Tracker service. Requires internet access.
+
+
 `run-fuel-price-strategy.py`
 
 Runs the strategy (read from `fuel-price-strategy.csv`) to estimate the current fuel price for each
