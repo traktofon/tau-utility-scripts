@@ -3,8 +3,12 @@
 import sys
 import math
 import json
+import requests
 import urllib.request
 from bs4 import BeautifulSoup
+
+from diskcache import Cache
+from datetime import date
 
 
 DEBUG = True
@@ -16,26 +20,30 @@ def debug_print(*msg):
         sys.stderr.write(" ".join(map(str, msg)) + "\n")
 
 
-minmax_cache = {}
-def get_minmax(slug):
-    if slug in minmax_cache:
-        return minmax_cache[slug]
-    try:
-        req = urllib.request.urlopen("https://taustation.space/item/" + slug)
-    except urllib.error.HTTPError:
-        print("FATAL: failed to get data for '%s'" % slug)
-        sys.exit(1)
-    html = req.read()
-    phtml = BeautifulSoup(html, "lxml")
-    body = phtml.body
-    tag = body.find('span', attrs={'class':"currency"})
+def _get_minmax(slug):
+    print('_get_minmax({})'.format(slug))
+    url = "https://taustation.space/item/" + slug
+    req = requests.get(url)
+    if req.status_code != 200:
+        raise Exception('Cannot get {}: {}'.format(url, req.text))
+    phtml = BeautifulSoup(req.text, "lxml")
+    tag = phtml.body.find('span', attrs={'class':"currency"})
     children = list(tag.children)
     price_range = children[0]
     a,b = price_range.split(" - ")
     mn = float(a)
     mx = float(b)
-    minmax_cache[slug] = (mn,mx)
     return (mn,mx)
+
+def get_minmax(cache, slug):
+    day = str(date.today())
+    cache_key = '{}/{}'.format(day, slug)
+    result = cache.get(cache_key)
+    if result:
+        return result
+    result = _get_minmax(slug)
+    cache.set(cache_key, result)
+    return result
 
 
 def read_items(jsondata):
@@ -73,16 +81,72 @@ def entries_by_key(entries, key):
         collected_entries[k].append(e)
     return collected_entries
 
+def median(numbers):
+    """
+    Returns the median of a list of already sorted numbers.
+    """
+    l = len(numbers)
+    if l % 2 == 1:
+        return numbers[ l // 2 + 1]
+    else:
+        return (numbers[l // 2] + numbers[l // 2 + 1]) / 2
+
+def find_most_common_number(l, ACCURACY=0.05):
+    """
+    In a list of numbers, find one number that is the most common,
+    barring some wiggle room for inaccuracies.
+    Returns the most common number, or None if there is not one
+    clear most common number.
+    """
+    previous = None
+    current_streak = []
+    streaks = []
+    for n in sorted(l):
+        if previous is None:
+            previous = n
+            current_streak = [n]
+            continue
+        diff = (n - previous) / n
+        if diff <= ACCURACY:
+            current_streak.append(n)
+        else:
+            streaks.append(current_streak)
+            current_streak = [n]
+        previous = n
+    streaks.append(current_streak)
+
+    sorted_streaks = sorted(streaks, key=lambda s: -len(s))
+    winning_streak = sorted_streaks[0]
+
+    if len(winning_streak) == 1:
+        # seems we have no similar numbers at all
+        return None
+    if len(sorted_streaks) > 1 and len(winning_streak) == len(sorted_streaks[1]):
+        # we have two clusters of similar numbers with the same size,
+        # so don't assume we have a winner
+        return None
+
+    return median(winning_streak)
+
 
 class Interval:
     def __init__(self):
         self.min = -math.inf
         self.max = math.inf
+        self.prices_seen = []
+
     def update(self, a, b):
+        self.prices_seen.append(a)
+        self.prices_seen.append(b)
         if a > self.min:
             self.min = a
         if b < self.max:
             self.max = b
+
+    def guess(self):
+        return find_most_common_number(self.prices_seen)
+        
+
     def length(self):
         return (self.max - self.min)
     def is_converged(self):
@@ -93,7 +157,7 @@ class Interval:
         return 0.5 * (self.min + self.max)
 
 
-if __name__ == '__main__':
+with Cache(directory='item-price-cache') as cache:
 
     # ingest correlation data from file or URL
     if len(sys.argv) > 1:
@@ -167,7 +231,7 @@ if __name__ == '__main__':
                 station_combinations.append(station_combination)
 
             fpc = station_entries_by_slug[slug][0]['FuelPriceCoefficient']
-            itemprice_min, itemprice_max = get_minmax(slug)
+            itemprice_min, itemprice_max = get_minmax(cache, slug)
             fuelprice_min = itemprice_min / fpc
             fuelprice_max = itemprice_max / fpc
             fuelprice_interval.update(fuelprice_min, fuelprice_max)
@@ -183,6 +247,14 @@ if __name__ == '__main__':
     # sort stations by fuelprice midpoint
     for station in sorted(stations, key = lambda station: fuelprice_by_station[station].midpoint() ):
         fp = fuelprice_by_station[station]
-        print( "%-12s%s" % ( shortname_by_station[station],
-                             ("%.2f" % fp.midpoint()) if fp.is_converged() else str(fp) ) )
+        if fp.is_converged():
+            fuel_string = '%.2f' % fp.midpoint()
+        else:
+            guess = fp.guess()
+            if guess:
+                fuel_string = '%.2f (guessed by frequency)' % guess
+            else:
+                fuel_string = str(fp)
+            
+        print( "%-12s%s" % ( shortname_by_station[station], fuel_string))
 
