@@ -16,7 +16,10 @@ def debug_print(*msg):
         sys.stderr.write(" ".join(map(str, msg)) + "\n")
 
 
+minmax_cache = {}
 def get_minmax(slug):
+    if slug in minmax_cache:
+        return minmax_cache[slug]
     try:
         req = urllib.request.urlopen("https://taustation.space/item/" + slug)
     except urllib.error.HTTPError:
@@ -31,6 +34,7 @@ def get_minmax(slug):
     a,b = price_range.split(" - ")
     mn = float(a)
     mx = float(b)
+    minmax_cache[slug] = (mn,mx)
     return (mn,mx)
 
 
