@@ -4,7 +4,6 @@ import sys
 import math
 import json
 import requests
-import urllib.request
 from bs4 import BeautifulSoup
 
 from diskcache import Cache
@@ -21,7 +20,7 @@ def debug_print(*msg):
 
 
 def _get_minmax(slug):
-    print('_get_minmax({})'.format(slug))
+    # print('_get_minmax({})'.format(slug))
     url = "https://taustation.space/item/" + slug
     req = requests.get(url)
     if req.status_code != 200:
@@ -165,8 +164,10 @@ with Cache(directory='item-price-cache') as cache:
             stations_json = json.load(f)
     else:
         url = "https://tracker.tauguide.de/v1/special/fuel-vendor-correlation"
-        with urllib.request.urlopen(url) as response:
-            stations_json = json.load(response)
+        req = requests.get(url)
+        if req.status_code != 200:
+            raise Exception('Cannot get {}: {}'.format(url, req.text))
+        stations_json = json.loads(req.text)
 
     # read all entries
     entries = read_items(stations_json)
