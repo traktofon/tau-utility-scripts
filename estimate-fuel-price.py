@@ -163,6 +163,8 @@ class Interval:
         return "[%.2f, %.2f]" % (self.min, self.max)
     def midpoint(self):
         return 0.5 * (self.min + self.max)
+    def contains(self, a):
+        return (a >= self.min - INTERVAL_THRESHOLD) and (a <= self.max + INTERVAL_THRESHOLD)
 
 
 with Cache(directory='item-price-cache') as cache:
@@ -279,10 +281,13 @@ with Cache(directory='item-price-cache') as cache:
 
             debug_print("STATION =", station)
 
+            # get the current interval
+            fuelprice_interval = fuelprice_by_station[station]
+
             for slug in considered_slugs_by_station[station]:
                 debug_print("  slug =", slug)
                 itemprice_min, itemprice_max = get_minmax(cache, slug)
-                debug_print("    itemprice = %.2f — %.2f" % (itemprice_min, itemprice_max))
+                debug_print("    itemprice range = %.2f — %.2f" % (itemprice_min, itemprice_max))
 
                 # keep track of which stations are compatible with the min/max itemprice
                 # the goal is to reduce either of them to just one station
@@ -308,29 +313,39 @@ with Cache(directory='item-price-cache') as cache:
                     if not equals_approx(other_itemprice, itemprice_max):
                         stations_compatible_with_max.remove(other_station)
 
-                # is the min price only compatible with one station? (it will be the current station)
-                if len(stations_compatible_with_min) == 1:
-                    assert(stations_compatible_with_min.pop() == station)
-                    itemprice = itemprice_min
-                # same check for max price
-                elif len(stations_compatible_with_max) == 1:
-                    assert(stations_compatible_with_max.pop() == station)
-                    itemprice = itemprice_max
-                else:
-                    continue # move on to next item
-                debug_print("    itemprice = %.2f" % itemprice)
-
                 # get this item's FPC on this station
                 station_entries = entries_by_station[station]
                 station_entries_by_slug = entries_by_key(station_entries, 'slug')
                 fpc = station_entries_by_slug[slug][0]['FuelPriceCoefficient']
-                # and thus the fuelprice on this station
-                fuelprice = itemprice / fpc
-                debug_print("    fuelprice = %.2f" % fuelprice)
+
+                fuelprice = None
+                # is the min price only compatible with one station? (it will be the current station)
+                if len(stations_compatible_with_min) == 1:
+                    assert(stations_compatible_with_min.pop() == station)
+                    itemprice = itemprice_min
+                    fuelprice = itemprice_min / fpc
+                    if not fuelprice_interval.contains(fuelprice):
+                        debug_print("    WARNING: min price %.2f only compatible here" % itemprice_min)
+                        debug_print("             but fuelprice %.2f not inside %s" % (fuelprice, fuelprice_interval))
+                        fuelprice = None
+
+                # same check for max price (unless resolved)
+                if (not fuelprice) and len(stations_compatible_with_max) == 1:
+                    assert(stations_compatible_with_max.pop() == station)
+                    itemprice = itemprice_max
+                    fuelprice = itemprice_max / fpc
+                    if not fuelprice_interval.contains(fuelprice):
+                        debug_print("    WARNING: max price %.2f only compatible here" % itemprice_max)
+                        debug_print("             but fuelprice %.2f not inside %s" % (fuelprice, fuelprice_interval))
+                        fuelprice = None
+
+                if (not fuelprice): continue # move on to next item
+                debug_print("    => itemprice here = %.2f" % itemprice)
+                debug_print("  => fuelprice = %.2f" % fuelprice)
 
                 # store result
                 nconverged += 1
-                fuelprice_by_station[station].update(fuelprice, fuelprice)
+                fuelprice_interval.update(fuelprice, fuelprice)
                 # don't need to consider more items
                 break
         
