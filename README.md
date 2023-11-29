@@ -1,3 +1,6 @@
+Archiving as Tau Station has closed.
+
+
 # Tau Station utility scripts
 
 Subdirectories contain manually collected information.
